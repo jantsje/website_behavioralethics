@@ -1,17 +1,38 @@
-+++
-# People widget.
-widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 68  # Order that this section will appear.
+---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: people
 
-title = "People"
-subtitle = ""
+# This file represents a page section.
+headless: true
 
-# List user groups to display.
-#   Edit each user's `user_groups` to add them to one or more of these groups.
-user_groups = ["Principal Investigators",
-               "Researchers",
-               "Visitors",
-               "Alumni"]
-+++
+# Order that this section appears on the page.
+weight: 40
+
+# Section title
+title: People
+
+# Section subtitle
+subtitle:
+
+content:
+  # Choose which groups/teams of users to display.
+  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  user_groups:
+    - Principal Investigator
+    - Researchers
+    - Visitors
+    - Alumni
+design:
+  # Show user's social networking links? (true/false)
+  show_social: true
+  # Show user's interests? (true/false)
+  show_interests: false
+  # Show user's role?
+  show_role: true
+  # Show user's organizations/affiliations?
+  show_organizations: false
+  
+
+---
+
