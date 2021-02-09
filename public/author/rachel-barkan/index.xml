@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rachel Barkan | Behavioral Ethics Lab</title>
+    <link>https://www.jantsje.nl/author/rachel-barkan/</link>
+      <atom:link href="https://www.jantsje.nl/author/rachel-barkan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rachel Barkan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Behavioral Ethics Lab © 2021</copyright><lastBuildDate>Mon, 01 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.jantsje.nl/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Rachel Barkan</title>
+      <link>https://www.jantsje.nl/author/rachel-barkan/</link>
+    </image>
+    
+    <item>
+      <title>One-by-One or All-at-Once? Self-Reporting Policies and Dishonesty</title>
+      <link>https://www.jantsje.nl/publication/rilke-2016/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/rilke-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Serving Justifications</title>
+      <link>https://www.jantsje.nl/publication/shalvi-2015-a/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/shalvi-2015-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -40,6 +40,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=CyFrw3YAAAAJ&hl=en
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/Shaul_Shalvi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -52,6 +55,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: ["Researchers"]
+
+
+
+
 ---
 
 Shaul Shalvi is a professor of Behavioural Ethics at the Center for Research in Experimental Economics and political Decision making ([CREED](https://www.creedexperiment.nl/creed/)), Amsterdam School of Economics. He serves as an Associate Editor at [Judgment and Decision Making](http://journal.sjdm.org/).  

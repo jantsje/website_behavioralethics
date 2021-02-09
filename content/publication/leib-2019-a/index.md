@@ -52,4 +52,11 @@ abstract: People experience fair and unfair treatment daily, and at times may re
   a motivation to reciprocate an (un)fair counterpart.
 publication: '*Judgment and Decision Making*'
 url_pdf: 'https://pure.uva.nl/ws/files/39282271/jdm190419.pdf'
+url_dataset: https://osf.io/w2r97/?view_only=44bf455fcb18496da6e40ee354e61fc9
+
+links:
+  - name: Materials
+    url: 'https://osf.io/u3m6r/?view_only=44bf455fcb18496da6e40ee354e61fc9'
+  - name: Preregistration
+    url: 'https://osf.io/zw9ds/'
 ---

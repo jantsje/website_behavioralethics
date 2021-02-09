@@ -51,4 +51,12 @@ abstract: People are rather dishonest when working on collaborative tasks. We ex
 publication: '*Economics Letters*'
 url_pdf: https://pure.uva.nl/ws/files/20951422/The_bad_consequences_of_teamwork.pdf
 doi: 10.1016/j.econlet.2017.08.011
+
+links:
+- name: Materials
+  url: 'https://ars.els-cdn.com/content/image/1-s2.0-S0165176517303348-mmc1.pdf'
+- name: Dataset
+  url: 'https://ars.els-cdn.com/content/image/1-s2.0-S0165176517303348-mmc2.txt'
+- name: Variables
+  url: 'https://ars.els-cdn.com/content/image/1-s2.0-S0165176517303348-mmc3.txt'
 ---

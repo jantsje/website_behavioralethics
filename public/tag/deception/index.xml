@@ -1,25 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deception | Behavioral Ethics Lab</title>
+    <title>deception | Behavioral Ethics Lab</title>
     <link>https://www.jantsje.nl/tag/deception/</link>
       <atom:link href="https://www.jantsje.nl/tag/deception/index.xml" rel="self" type="application/rss+xml" />
-    <description>Deception</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Behavioral Ethics Lab © 2021</copyright><lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <description>deception</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Behavioral Ethics Lab © 2021</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.jantsje.nl/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Deception</title>
+      <url>https://www.jantsje.nl/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>deception</title>
       <link>https://www.jantsje.nl/tag/deception/</link>
     </image>
     
     <item>
-      <title>Honesty</title>
-      <link>https://www.jantsje.nl/project/honesty/</link>
-      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/project/honesty/</guid>
-      <description>&lt;h3&gt; Project title honesty &lt;/h3&gt; 
-&lt;p&gt;Project summary honesty&lt;/p&gt;
-</description>
+      <title>Taxing the Brain to Uncover Lying? Meta-analyzing the Effect of Imposing Cognitive Load on the Reaction-Time Costs of Lying</title>
+      <link>https://www.jantsje.nl/publication/verschuere-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/verschuere-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Truth Comes Naturally! Does It?</title>
+      <link>https://www.jantsje.nl/publication/verschuere-2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/verschuere-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People avoid situations that enable them to deceive others</title>
+      <link>https://www.jantsje.nl/publication/shalvi-2011-b/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/shalvi-2011-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Justified ethicality: Observing desired counterfactuals modifies ethical perceptions and behavior</title>
+      <link>https://www.jantsje.nl/publication/shalvi-2011/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/shalvi-2011/</guid>
+      <description></description>
     </item>
     
   </channel>

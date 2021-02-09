@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Precision in a Seller's Market: Round Asking Prices Lead to Higher Counteroffers\
-  \ and Selling Prices"
+title: "Precision in a Seller's Market: Round Asking Prices Lead to Higher Counteroffers and Selling Prices"
 subtitle: ''
 summary: ''
 authors:
@@ -52,5 +51,6 @@ abstract: Precise, compared with round, asking prices lead to counteroffers and 
   an increase of 0.6% in the selling price, equivalent to €2,099 on average.
 publication: '*Management Science*'
 url_pdf: https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2019.3570
+url_dataset: https://osf.io/q4pr3/
 doi: 10.1287/mnsc.2019.3570
 ---

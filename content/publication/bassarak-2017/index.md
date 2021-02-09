@@ -60,4 +60,8 @@ abstract: When people can profit financially by lying, they do so to the extent 
 publication: '*Journal of Behavioral Decision Making*'
 url_pdf: https://pure.uva.nl/ws/files/20626342/Bassarak_et_al_2017_Journal_of_Behavioral_Decision_Making.pdf
 doi: 10.1002/bdm.2013
+
+links:
+  - name: Dataset
+    url: 'https://osf.io/4hnvg/'
 ---

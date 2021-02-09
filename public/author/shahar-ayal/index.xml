@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shahar Ayal | Behavioral Ethics Lab</title>
+    <link>https://www.jantsje.nl/author/shahar-ayal/</link>
+      <atom:link href="https://www.jantsje.nl/author/shahar-ayal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shahar Ayal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Behavioral Ethics Lab © 2021</copyright><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.jantsje.nl/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Shahar Ayal</title>
+      <link>https://www.jantsje.nl/author/shahar-ayal/</link>
+    </image>
+    
+    <item>
+      <title>The effects of extreme rituals on moral behavior: The performers-observers gap hypothesis</title>
+      <link>https://www.jantsje.nl/publication/mitkidis-2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/mitkidis-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Serving Justifications</title>
+      <link>https://www.jantsje.nl/publication/shalvi-2015-a/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/shalvi-2015-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

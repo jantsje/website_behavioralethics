@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>behavioral economics | Behavioral Ethics Lab</title>
+    <link>https://www.jantsje.nl/tag/behavioral-economics/</link>
+      <atom:link href="https://www.jantsje.nl/tag/behavioral-economics/index.xml" rel="self" type="application/rss+xml" />
+    <description>behavioral economics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Behavioral Ethics Lab © 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.jantsje.nl/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>behavioral economics</title>
+      <link>https://www.jantsje.nl/tag/behavioral-economics/</link>
+    </image>
+    
+    <item>
+      <title>Honesty Speaks a Second Language</title>
+      <link>https://www.jantsje.nl/publication/bereby-meyer-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/bereby-meyer-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The collaborative roots of corruption</title>
+      <link>https://www.jantsje.nl/publication/weisel-2015-b/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/weisel-2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxytocin promotes group-serving dishonesty</title>
+      <link>https://www.jantsje.nl/publication/shalvi-2014/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/shalvi-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

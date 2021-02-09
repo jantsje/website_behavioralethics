@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Rand | Behavioral Ethics Lab</title>
+    <link>https://www.jantsje.nl/author/david-rand/</link>
+      <atom:link href="https://www.jantsje.nl/author/david-rand/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Rand</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Behavioral Ethics Lab © 2021</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.jantsje.nl/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>David Rand</title>
+      <link>https://www.jantsje.nl/author/david-rand/</link>
+    </image>
+    
+    <item>
+      <title>Intuitive Honesty Versus Dishonesty: Meta-Analytic Evidence</title>
+      <link>https://www.jantsje.nl/publication/kobis-2019-c/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/kobis-2019-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taxing the Brain to Uncover Lying? Meta-analyzing the Effect of Imposing Cognitive Load on the Reaction-Time Costs of Lying</title>
+      <link>https://www.jantsje.nl/publication/verschuere-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/verschuere-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

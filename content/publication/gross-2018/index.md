@@ -46,4 +46,10 @@ abstract: "Corruption is often the product of coordinated rule violations. Here,
 publication: '*Psychological Science*'
 doi: 10.1177/0956797618796480
 url_pdf: https://pure.uva.nl/ws/files/32463608/0956797618796480.pdf
+
+links:
+  - name: Data & materials
+    url: 'https://osf.io/eym9j/?view_only='
+  - name: Supplementary Material
+    url: 'https://journals.sagepub.com/doi/suppl/10.1177/0956797618796480/suppl_file/ShalviSupplementalMaterial.pdf'
 ---

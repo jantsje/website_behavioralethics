@@ -56,4 +56,7 @@ abstract: In ambiguous settings, people are tempted to make self-serving mistake
 publication: '*Journal of Experimental Social Psychology*'
 doi: 10.1016/j.jesp.2019.103880
 url_pdf: https://pure.uva.nl/ws/files/46419939/1_s2.0_S0022103119300563_main.pdf
+url_dataset: https://osf.io/uk5c7/
+url_code: https://osf.io/uk5c7/
+url_materials: https://osf.io/473gq/
 ---

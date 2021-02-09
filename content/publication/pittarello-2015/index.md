@@ -59,4 +59,14 @@ abstract: To some extent, unethical behavior results from people's limited atten
   toward tempting information.
 publication: '*Psychological Science*'
 doi: 10.1177/0956797615571018
+
+links:
+  - name: Dataset 1
+    url: 'osf.io/d2ncs'
+  - name: Dataset 2
+    url: 'osf.io/473gq'
+  - name: Preregistration 1
+    url: 'osf.io/d2ncs'
+  - name: Preregistration 2
+    url: 'osf.io/473gq'
 ---
