@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jantsje Mol | Behavioral Ethics Lab</title>
+    <link>https://www.jantsje.nl/author/jantsje-mol/</link>
+      <atom:link href="https://www.jantsje.nl/author/jantsje-mol/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jantsje Mol</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Behavioral Ethics Lab © 2021</copyright><lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.jantsje.nl/author/jantsje-mol/avatar_hu922e7cc1d446bf1474950c6ac8c5dc91_47696_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Jantsje Mol</title>
+      <link>https://www.jantsje.nl/author/jantsje-mol/</link>
+    </image>
+    
+    <item>
+      <title>(Not) alone in the world: Cheating in the presence of a virtual observer</title>
+      <link>https://www.jantsje.nl/publication/mol-2020/</link>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.jantsje.nl/publication/mol-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -10,11 +10,8 @@ links:
   name: 
   url: 
 slides: 
-summary: Honesty
+summary: Self-serving justifications 
 tags:
-- Honesty
-- Deception
-- Psychology
 
 
 title: Honesty

@@ -5,7 +5,7 @@ title: Jantsje Mol
 # Username (this should match the folder name)
 authors:
 - jantsje-m-mol
-
+highlight_name: true
 weight: 40
 
 # Is this the primary user of the site?
@@ -58,5 +58,7 @@ email: ""
 user_groups: ["Researchers"]
 ---
 
-Jantsje Mol is blablabla.
+Jantsje Mol a postdoctoral researcher at CREED, the Center for Research in Experimental Economics and political Decision making of the University of Amsterdam. Her main interests are experimental economics and behavioral economics. Formerly she worked at [Institute for Environmental Studies](https://www.ivm.vu.nl/en) at [Vrije Universiteit Amsterdam](https://www.vu.nl/en). She is currently working on the [Trustpath](/project/trustpath) project.
+
+More information at [Jantsje's personal website](https://www.jantsje.nl). 
 

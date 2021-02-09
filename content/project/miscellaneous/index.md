@@ -10,9 +10,8 @@ links:
   name: 
   url: 
 slides: 
-summary: This means all our other projects, related and not related. 
+summary: Additional research  
 tags:
-- Psychology
 
 
 title: Miscellaneous
@@ -24,5 +23,3 @@ url_video: ""
 
 <h3> Miscellaneous: all our other stuff! </h3> 
 
-
-Yes, it is a lot!

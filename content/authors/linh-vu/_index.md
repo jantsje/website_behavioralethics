@@ -5,7 +5,7 @@ title: Linh Vu
 # Username (this should match the folder name)
 authors:
 - linh-vu
-
+highlight_name: true
 weight: 35
 
 # Is this the primary user of the site?
@@ -23,7 +23,7 @@ organizations:
 bio: I am interested in decision making and behavioral ethics.
 
 interests:
-- Margarita's interests
+- Linh's interests
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -50,5 +50,5 @@ email: ""
 user_groups: ["Researchers"]
 ---
 
-I am interested in decision making and behavioral ethics. I study the dark side of pro sociality, specifically how people's pro social tendencies, such as reciprocity and cooperation, leads to breaking ethical rules and corruption. Additionally, I am interested in the underlying mechanisms (e.g., attention allocation) that enables people to create justifications for their lies.
+I am interested in ...
 

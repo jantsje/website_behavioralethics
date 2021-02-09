@@ -10,11 +10,9 @@ links:
   name: 
   url: 
 slides: 
-summary: Responsible sharing - Paving the path for transparent trust
+summary: Encouraging responsible sharing on platform economy
 tags:
-- Sharing economy
-- Trust
-- Psychology
+
 
 
 title: Trustpath

@@ -10,12 +10,8 @@ links:
   name: 
   url: 
 slides: 
-summary: At the roots of corruption
+summary: A behavioral approach to collaborative dishonesty 
 tags:
-- Behavioral ethics
-- Trust
-- Corruption
-- Psychology
 
 
 title: Corruption

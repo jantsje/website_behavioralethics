@@ -5,7 +5,7 @@ title: Margarita Leib
 # Username (this should match the folder name)
 authors:
 - margarita-leib
-
+highlight_name: true
 weight: 30
 
 # Is this the primary user of the site?
@@ -35,9 +35,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=UojQ0RIAAAAJ&hl=en&oi=sra
-- icon: github
-  icon_pack: fab
-  link: https://github.com/jantsje/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -52,5 +49,5 @@ email: ""
 user_groups: ["Researchers"]
 ---
 
-I am interested in decision making and behavioral ethics. I study the dark side of pro sociality, specifically how people's pro social tendencies, such as reciprocity and cooperation, leads to breaking ethical rules and corruption. Additionally, I am interested in the underlying mechanisms (e.g., attention allocation) that enables people to create justifications for their lies.
+I am interested in ethical decision making. In particularly, I study the cognitive process and (social) motivation that shapes people’s decision to be honest or to lie for financial profit. In my current work I focus on collaborative dishonesty – situations in which in order to collaborate with partners, people need to violate ethical rules and lie.
 

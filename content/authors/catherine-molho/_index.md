@@ -5,7 +5,7 @@ title: Catherine Molho
 # Username (this should match the folder name)
 authors:
 - catherine-molho
-
+highlight_name: true
 weight: 40
 
 # Is this the primary user of the site?

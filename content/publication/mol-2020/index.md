@@ -10,7 +10,10 @@ abstract: "We conducted an experiment in a high-immersive virtual reality enviro
 "
 featured: false
 publication: "*Experimental Economics*"
-tags: ["Virtual reality experiment", "Cheating", "Watching eyes effect"]
+tags: 
+- virtual reality experiment
+- cheating
+- watching eyes effect
 url_pdf: "publication/mol-2020/postprint-mol-2020.pdf"
 doi: "10.1007/s10683-020-09644-0"
 url_code: "https://doi.org/10.34894/RZTSWA"

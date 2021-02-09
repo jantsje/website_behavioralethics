@@ -5,7 +5,7 @@ title: Shaul Shalvi
 # Username (this should match the folder name)
 authors:
 - shaul-shalvi
-
+highlight_name: true
 weight: 10
 
 # Is this the primary user of the site?
@@ -29,18 +29,6 @@ interests:
 - Negotiation
 
 
-education:
-  courses:
-  - course: PhD in Psychology
-    institution: University of Amsterdam, cum laude
-    year: 2011
-  - course: Dual M.A.
-    institution: Hebrew University, cum laude
-    year: 2006
-  - course: B.A. in Behavioral Science
-    institution: Academic College of Tel-Aviv-Jaffa
-    year: 2004
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -63,8 +51,10 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: ["Principal Investigator"]
+user_groups: ["Researchers"]
 ---
 
 Shaul Shalvi is a professor of Behavioural Ethics at the Center for Research in Experimental Economics and political Decision making ([CREED](https://www.creedexperiment.nl/creed/)), Amsterdam School of Economics. He serves as an Associate Editor at [Judgment and Decision Making](http://journal.sjdm.org/).  
+
+More information can be found on [Shaul's personal website](https://www.uva.nl/en/profile/s/h/s.shalvi/s.shalvi.html).
 
