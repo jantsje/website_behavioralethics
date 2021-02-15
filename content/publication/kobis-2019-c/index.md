@@ -24,6 +24,7 @@ date: '2019-09-01'
 lastmod: 2021-02-09T14:33:00+01:00
 featured: false
 draft: false
+profile: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

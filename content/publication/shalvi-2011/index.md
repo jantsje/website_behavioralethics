@@ -8,8 +8,8 @@ summary: ''
 authors:
 - Shaul Shalvi
 - Jason Dana
-- Michel J.J. Handgraaf
-- Carsten K.W. De Dreu
+- Michel J. J. Handgraaf
+- Carsten K. W. De Dreu
 tags:
 - 'deception'
 - 'experiment'
@@ -18,6 +18,7 @@ date: '2011-07-01'
 lastmod: 2021-02-09T17:03:34+01:00
 featured: false
 draft: false
+profile: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Shaul Shalvi
-- C. K. W. De Dreu
+- Carsten K. W. De Dreu
 tags:
 - 'behavioral economics'
 - 'behavioral ethics'
@@ -18,6 +18,7 @@ date: '2014-04-01'
 lastmod: 2021-02-09T17:03:38+01:00
 featured: false
 draft: false
+profile: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -22,13 +22,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include fairness, equality, values and norms.
 
-interests:
-- Behavioral Ethics
-- Judgment & Decision Making
-- Cooperation
-- Negotiation
-
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -57,11 +50,24 @@ email: ""
 user_groups: ["Researchers"]
 
 
-
-
 ---
 
 Shaul Shalvi is a professor of Behavioural Ethics at the Center for Research in Experimental Economics and political Decision making ([CREED](https://www.creedexperiment.nl/creed/)), Amsterdam School of Economics. He serves as an Associate Editor at [Judgment and Decision Making](http://journal.sjdm.org/).  
 
 More information can be found on [Shaul's personal website](https://www.uva.nl/en/profile/s/h/s.shalvi/s.shalvi.html).
 
+
+### Interests
+- Behavioral Ethics
+- Judgment & Decision Making
+- Cooperation
+- Negotiation
+
+
+<br>
+
+### Key publications
+{{< cite page="/publication/shalvi-2016" view="4" >}}
+{{< cite page="/publication/shalvi-2019-a" view="4" >}}
+{{< cite page="/publication/weisel-2015-b" view="4" >}}
+{{< cite page="/publication/kobis-2019-c" view="4" >}}

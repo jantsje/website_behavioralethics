@@ -22,11 +22,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include experimental economics, behavioral economics and virtual reality.
 
-interests:
-- Experimental Economics
-- Behavioral Economics
-- Environmental Economics
-- Virtual Reality
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -61,4 +56,12 @@ user_groups: ["Researchers"]
 Jantsje Mol a postdoctoral researcher at CREED, the Center for Research in Experimental Economics and political Decision making of the University of Amsterdam. Her main interests are experimental economics and behavioral economics. Formerly she worked at [Institute for Environmental Studies](https://www.ivm.vu.nl/en) at [Vrije Universiteit Amsterdam](https://www.vu.nl/en). She is currently working on the [Trustpath](/project/trustpath) project.
 
 More information at [Jantsje's personal website](https://www.jantsje.nl). 
+### Interests
+- Experimental Economics
+- Behavioral Economics
+- Environmental Economics
+- Virtual Reality
 
+<br>
+
+{{< cite page="/publication/mol-2020" view="2" >}}

@@ -5,7 +5,7 @@ title: Tom Gordon-Hecker
 # Username (this should match the folder name)
 authors:
 - tom-gordon-hecker
-weight: 20
+weight: 30
 
 # Is this the primary user of the site?
 superuser: false

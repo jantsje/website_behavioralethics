@@ -16,8 +16,8 @@ role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Amsterdam
-  url: ""
+- name: Institute for Advanced Study in Toulouse
+  url: "http://www.iast.fr"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include experimental economics, behavioral economics and virtual reality.

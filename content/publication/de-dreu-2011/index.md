@@ -5,11 +5,11 @@ title: Oxytocin promotes human ethnocentrism
 subtitle: ''
 summary: ''
 authors:
-- C. K. W. De Dreu
+- Carsten K. W. De Dreu
 - Lindred L. Greer
 - Gerben A. Van Kleef
 - Shaul Shalvi
-- M. J. J. Handgraaf
+- Michel J. J. Handgraaf
 tags:
 - 'endocrinology'
 - 'evolution'
@@ -21,6 +21,7 @@ date: '2011-01-01'
 lastmod: 2021-02-09T16:03:49+01:00
 featured: false
 draft: false
+profile: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

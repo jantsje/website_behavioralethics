@@ -6,9 +6,9 @@ title: The Neuropeptide Oxytocin Regulates Parochial Altruism in Intergroup Conf
 subtitle: ''
 summary: ''
 authors:
-- C. K. W. De Dreu
+- Carsten K. W. De Dreu
 - Lindred L. Greer
-- M. J. J. Handgraaf
+- Michel J. J. Handgraaf
 - Shaul Shalvi
 - Gerben A. Van Kleef
 - Matthijs Baas
@@ -29,6 +29,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+profile: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

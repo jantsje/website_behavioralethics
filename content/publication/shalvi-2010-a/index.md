@@ -7,14 +7,15 @@ summary: ''
 authors:
 - Shaul Shalvi
 - Matthijs Baas
-- Michel J J Handgraaf
-- Carsten K W De Dreu
+- Michel J. J. Handgraaf
+- Carsten K. W. De Dreu
 tags: []
 categories: []
 date: '2010-04-01'
 lastmod: 2021-02-09T16:03:48+01:00
 featured: false
 draft: false
+profile: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

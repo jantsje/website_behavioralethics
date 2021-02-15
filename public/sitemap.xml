@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.jantsje.nl/project/honesty/</loc>
+    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.jantsje.nl/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -13,8 +18,23 @@
   </url>
   
   <url>
+    <loc>https://www.jantsje.nl/project/trustpath/</loc>
+    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.jantsje.nl/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/project/roots_of_corruption/</loc>
+    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/project/miscellaneous/</loc>
+    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,6 +53,15 @@
   </url>
   
   <url>
+    <loc>https://www.jantsje.nl/author/charlotte-ringdal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/author/margarita-leib/</loc>
+    <lastmod>2021-02-09T18:00:18+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.jantsje.nl/author/andrea-pittarello/</loc>
     <lastmod>2021-02-09T17:03:34+01:00</lastmod>
   </url>
@@ -40,11 +69,6 @@
   <url>
     <loc>https://www.jantsje.nl/author/tom-gordon-hecker/</loc>
     <lastmod>2021-02-09T17:03:34+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/author/margarita-leib/</loc>
-    <lastmod>2021-02-09T18:00:18+01:00</lastmod>
   </url>
   
   <url>
@@ -121,27 +145,7 @@
   </url>
   
   <url>
-    <loc>https://www.jantsje.nl/project/roots_of_corruption/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/project/honesty/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/project/miscellaneous/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.jantsje.nl/project/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/project/trustpath/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -811,11 +815,6 @@
   </url>
   
   <url>
-    <loc>https://www.jantsje.nl/author/nils-c.-kobis/</loc>
-    <lastmod>2021-02-09T14:32:59+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.jantsje.nl/tag/open-data/</loc>
     <lastmod>2021-02-09T17:03:34+01:00</lastmod>
   </url>
@@ -1321,23 +1320,13 @@
   </url>
   
   <url>
-    <loc>https://www.jantsje.nl/author/c.-k.-w.-de-dreu/</loc>
+    <loc>https://www.jantsje.nl/author/carsten-k.-w.-de-dreu/</loc>
     <lastmod>2021-02-09T17:03:38+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.jantsje.nl/publication/shalvi-2014/</loc>
     <lastmod>2021-02-09T17:03:38+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/tag/dospert/</loc>
-    <lastmod>2021-02-09T17:03:34+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/tag/risk-taking/</loc>
-    <lastmod>2021-02-09T17:03:34+01:00</lastmod>
   </url>
   
   <url>
@@ -1361,6 +1350,11 @@
   </url>
   
   <url>
+    <loc>https://www.jantsje.nl/tag/dospert/</loc>
+    <lastmod>2021-02-09T17:03:34+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.jantsje.nl/author/eyal-peer/</loc>
     <lastmod>2021-02-09T17:03:37+01:00</lastmod>
   </url>
@@ -1373,6 +1367,11 @@
   <url>
     <loc>https://www.jantsje.nl/tag/negative-emotions/</loc>
     <lastmod>2021-02-09T17:03:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jantsje.nl/tag/risk-taking/</loc>
+    <lastmod>2021-02-09T17:03:34+01:00</lastmod>
   </url>
   
   <url>
@@ -1491,16 +1490,6 @@
   </url>
   
   <url>
-    <loc>https://www.jantsje.nl/author/carsten-k.-w.-de-dreu/</loc>
-    <lastmod>2021-02-09T16:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/author/carsten-k.w.-de-dreu/</loc>
-    <lastmod>2021-02-09T17:03:37+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.jantsje.nl/author/daniel-sligte/</loc>
     <lastmod>2021-02-09T16:03:50+01:00</lastmod>
   </url>
@@ -1531,7 +1520,7 @@
   </url>
   
   <url>
-    <loc>https://www.jantsje.nl/author/michel-j.j.-handgraaf/</loc>
+    <loc>https://www.jantsje.nl/author/michel-j.-j.-handgraaf/</loc>
     <lastmod>2021-02-09T17:03:37+01:00</lastmod>
   </url>
   
@@ -1581,11 +1570,6 @@
   </url>
   
   <url>
-    <loc>https://www.jantsje.nl/author/michel-j.-j.-handgraaf/</loc>
-    <lastmod>2021-02-09T17:03:31+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.jantsje.nl/tag/endocrinology/</loc>
     <lastmod>2021-02-09T16:03:49+01:00</lastmod>
   </url>
@@ -1602,11 +1586,6 @@
   
   <url>
     <loc>https://www.jantsje.nl/author/lindred-l.-greer/</loc>
-    <lastmod>2021-02-09T16:03:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/author/m.-j.-j.-handgraaf/</loc>
     <lastmod>2021-02-09T16:03:49+01:00</lastmod>
   </url>
   
@@ -1682,16 +1661,6 @@
   
   <url>
     <loc>https://www.jantsje.nl/publication/de-dreu-2010/</loc>
-    <lastmod>2021-02-09T16:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/author/carsten-k-w-de-dreu/</loc>
-    <lastmod>2021-02-09T16:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jantsje.nl/author/michel-j-j-handgraaf/</loc>
     <lastmod>2021-02-09T16:03:48+01:00</lastmod>
   </url>
   

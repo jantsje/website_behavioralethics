@@ -9,17 +9,18 @@ authors:
 - Shaul Shalvi
 - Yoella Bereby-Meyer
 tags:
-- '"DOSPERT"'
-- '"Dishonesty"'
-- '"Honesty"'
-- '"Lying"'
-- '"Risk taking"'
-- '"Unethical behavior"'
+- 'DOSPERT'
+- 'dishonesty'
+- 'honesty'
+- 'lying'
+- 'risk taking'
+- 'unethical behavior'
 categories: []
 date: '2014-01-01'
 lastmod: 2021-02-09T17:03:34+01:00
 featured: false
 draft: false
+profile: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
