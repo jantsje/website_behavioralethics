@@ -17,13 +17,11 @@ role: PhD candidate
 # Organizations/Affiliations
 organizations:
 - name: University of Amsterdam
-  url: ""
+  url: "https://www.uva.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in decision making and behavioral ethics.
 
-interests:
-- Linh's interests
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -50,5 +48,15 @@ email: ""
 user_groups: ["Researchers"]
 ---
 
-I am interested in ...
+I am a PhD candidate at CREED, under the supervision of Prof. dr. Shaul Shalvi and Dr. Joël van der Weele. I am interested in behavioural ethics and decision making. Currently, I'm researching willful ignorance in the context of the sharing economy. 
 
+Before becoming a PhD candidate, I completed a research Master's degree in Cognitive Neuropsychology at [Vrije Universiteit Amsterdam](https://vuweb.vu.nl/en/) and a Bachelor's degree in Psychology at [University of Southampton](https://www.southampton.ac.uk/), United Kingdom. 
+
+### Interests
+- Behavioural Ethics
+- Decision making
+- Willful ignorance
+- Social cognition
+
+
+<br>

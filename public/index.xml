@@ -2,32 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Behavioral Ethics Lab</title>
-    <link>https://www.jantsje.nl/</link>
-      <atom:link href="https://www.jantsje.nl/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.behavioralethics.org/</link>
+      <atom:link href="https://www.behavioralethics.org/index.xml" rel="self" type="application/rss+xml" />
     <description>Behavioral Ethics Lab</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Behavioral Ethics Lab © 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.jantsje.nl/images/icon_hue79c9617451b43386f4505d9bbf948d0_14414_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.behavioralethics.org/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Behavioral Ethics Lab</title>
-      <link>https://www.jantsje.nl/</link>
+      <link>https://www.behavioralethics.org/</link>
     </image>
     
     <item>
-      <title>Honesty</title>
-      <link>https://www.jantsje.nl/project/honesty/</link>
+      <title>Trustpath</title>
+      <link>https://www.behavioralethics.org/project/trustpath/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/project/honesty/</guid>
-      <description>&lt;h3&gt;From cooperation to dishonesty: How concern for others can lead to unethical behavior&lt;/h3&gt;
-Cooperation with others is common and beneficial in organizational as well as personal settings. Working together allows people to achieve mutually beneficial outcomes and prosper. While the benefits of cooperation are clear, recent work suggests that when people work together (rather than alone) they are more likely to engage in dishonest acts aimed at boosting their profit, apparently because it is easier to justify lying when others share the profit. It thus seems plausible that experiencing cooperation from counterparts may increase people’s likelihood to reciprocate, even when reciprocation requires bending ethical rules. The main aim of the proposed research is to explore whether, and how, cooperation increases people’s concerns regarding their counterparts’ outcomes, and thus encourages bending ethical rules in order to profit the cooperating others. Such dishonest reciprocation, may not only allow one to display care about the other’s outcome, but also increase the likelihood of future cooperation, potentially leading to a slippery-slope spiral of unethical misconduct. Addressing this possibility, a theoretical process-model is developed in which the degree of unethical behavior depends on the degree of experienced cooperation. Specifically, the proposed research has three aims: Identifying (1) situations in which experiencing cooperation translates into dishonest behavior benefiting the other; (2) psychological mechanisms underlying such dishonesty; and (3) situational factors that may remedy such undesired unethical behaviors. The model is systematically tested by employing experimental social psychological and behavioral economic paradigms. Beyond its theoretical contribution to understanding the effects of cooperation on unethical behavior, the project has societal relevance in crafting interventions tailored to boost ethical behavior in organizations and society.
-
-
-
-
-
-
-
-
-  
+      <guid>https://www.behavioralethics.org/project/trustpath/</guid>
+      <description>&lt;h3&gt; The importance of trust in the sharing economy &lt;/h3&gt; 
+&lt;p&gt;The collaborative economy covers a variety of sectors and is rapidly emerging across Europe. Adding hundreds of billions of euro to the EU economy, it offers more choices to consumers and new opportunities to entrepreneurs. However, little is known about the bottom-up psychological factors driving the collaborative economy users’ behaviour. For responsible sharing, trust is necessary but not sufficient. The EU-funded TRUSTPATH project will develop and test a psychological theory of how people use the collaborative economy. The hypothesis is that trust encouraged without transparency can lead users to neglect the negative side effects trade has on others. The findings will advance our understanding of the psychology of the collaborative economy and inform policymakers seeking to regulate it. The results will also be useful for companies seeking to promote responsible sharing among users.&lt;/p&gt;
 
 
 
@@ -39,33 +30,59 @@ Cooperation with others is common and beneficial in organizational as well as pe
 
 
 
-&lt;figure id=&#34;figure-this-project-has-received-funding-from-the-european-research-council-erc-under-the-european-unions-fp7-people-programme-grant-agreement-no-333745&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.jantsje.nl/media/eu-logo-bw.jpg&#34; data-caption=&#34;This project has received funding from the European Research Council (ERC) under the European Union&amp;amp;rsquo;s FP7-PEOPLE programme (Grant agreement No. 333745).&#34;&gt;
+
+&lt;figure  id=&#34;figure-this-project-has-received-funding-from-the-european-research-council-erc-under-the-european-unions-horizon-2020-research-and-innovation-programme-grant-agreement-no-865931&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;This project has received funding from the European Research Council (ERC) under the European Union&amp;#39;s Horizon 2020 research and innovation programme (Grant agreement No. 865931).&#34; srcset=&#34;
+               /project/trustpath/eu-logo-bw_hud89cc0504c815f82b12534a9ae8558d8_100613_9427ca6963392d992712c474c93f5a8e.jpg 400w,
+               /project/trustpath/eu-logo-bw_hud89cc0504c815f82b12534a9ae8558d8_100613_3265f8091cf9b924f82cbfedc7c65e12.jpg 760w,
+               /project/trustpath/eu-logo-bw_hud89cc0504c815f82b12534a9ae8558d8_100613_1200x1200_fit_q90_lanczos.jpg 1200w&#34;
+               src=&#34;https://www.behavioralethics.org/project/trustpath/eu-logo-bw_hud89cc0504c815f82b12534a9ae8558d8_100613_9427ca6963392d992712c474c93f5a8e.jpg&#34;
+               width=&#34;200px&#34;
+               height=&#34;322&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      This project has received funding from the European Research Council (ERC) under the European Union&amp;rsquo;s Horizon 2020 research and innovation programme (Grant agreement No. 865931).
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 
-  &lt;img src=&#34;https://www.jantsje.nl/media/eu-logo-bw.jpg&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
 
 
-  
-  
-  &lt;figcaption&gt;
-    This project has received funding from the European Research Council (ERC) under the European Union&amp;rsquo;s FP7-PEOPLE programme (Grant agreement No. 333745).
-  &lt;/figcaption&gt;
 
 
-&lt;/figure&gt;
 
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-this-project-is-financially-supported-by-the-dutch-research-council-nwo-with-project-number-195137&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;This project is financially supported by the Dutch Research Council (NWO) with project number 195.137.&#34; srcset=&#34;
+               /project/trustpath/nwo-logo-bw_huaa0fcde34bac153e467298c2ba83850c_6664_08a74485892ea62e7254973d7a94601b.png 400w,
+               /project/trustpath/nwo-logo-bw_huaa0fcde34bac153e467298c2ba83850c_6664_eec78651c62bf7cd32ad3b85fa9ccdac.png 760w,
+               /project/trustpath/nwo-logo-bw_huaa0fcde34bac153e467298c2ba83850c_6664_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://www.behavioralethics.org/project/trustpath/nwo-logo-bw_huaa0fcde34bac153e467298c2ba83850c_6664_08a74485892ea62e7254973d7a94601b.png&#34;
+               width=&#34;200px&#34;
+               height=&#34;230&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      This project is financially supported by the Dutch Research Council (NWO) with project number 195.137.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 </description>
     </item>
     
     <item>
       <title>Example Page 1</title>
-      <link>https://www.jantsje.nl/courses/example/example1/</link>
+      <link>https://www.behavioralethics.org/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.jantsje.nl/courses/example/example1/</guid>
+      <guid>https://www.behavioralethics.org/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -83,21 +100,12 @@ Cooperation with others is common and beneficial in organizational as well as pe
     </item>
     
     <item>
-      <title>Trustpath</title>
-      <link>https://www.jantsje.nl/project/trustpath/</link>
+      <title>Corruption</title>
+      <link>https://www.behavioralethics.org/project/roots_of_corruption/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/project/trustpath/</guid>
-      <description>&lt;h3&gt; The importance of trust in the sharing economy &lt;/h3&gt; 
-&lt;p&gt;The collaborative economy covers a variety of sectors and is rapidly emerging across Europe. Adding hundreds of billions of euro to the EU economy, it offers more choices to consumers and new opportunities to entrepreneurs. However, little is known about the bottom-up psychological factors driving the collaborative economy users’ behaviour. For responsible sharing, trust is necessary but not sufficient. The EU-funded TRUSTPATH project will develop and test a psychological theory of how people use the collaborative economy. The hypothesis is that trust encouraged without transparency can lead users to neglect the negative side effects trade has on others. The findings will advance our understanding of the psychology of the collaborative economy and inform policymakers seeking to regulate it. The results will also be useful for companies seeking to promote responsible sharing among users.&lt;/p&gt;
-
-
-
-
-
-
-
-
-  
+      <guid>https://www.behavioralethics.org/project/roots_of_corruption/</guid>
+      <description>&lt;h3&gt; At the roots of corruption: a behavioral ethics approach &lt;/h3&gt; 
+&lt;p&gt;For many years, human cooperation has been praised as beneficial in organizational and personal settings. Indeed, cooperation allows people to develop trust, build meaningful relationships, achieve mutually beneficial outcomes, and strengthen bonding with one&amp;rsquo;s group members. However, while the benefits of cooperation are clear, very little is known about its possible negative aspects. Such negative aspects include the potential emergence of unethical conduct among cooperating partners, or as termed here – corrupt collaboration. Such joint unethical efforts, benefiting (directly or indirectly) one or more of the involved parties, occur in business, sports, and even academia. Corrupt collaboration emerges when one party bends ethical rules (here: lie) to set the stage for another party to further bend ethical rules and get the job done, that is, secure personal profit based on joint unethical acts. We propose that corrupt collaborations most commonly occur when all involved parties gain from the corrupt behavior. The current proposal is aimed at unfolding the roots and nature of corrupt collaborations; their existence, the psychological and biological processes underlying them, and the settings most likely to make corrupt collaboration emerge and spread. Accordingly, the information gathered in the current proposal has the potential to change the commonly held conceptions regarding the unidimensional – positive – nature of cooperation. It will help create a comprehensive understanding of cooperation and, specifically, when it should be encouraged or, alternatively, monitored.&lt;/p&gt;
 
 
 
@@ -109,33 +117,31 @@ Cooperation with others is common and beneficial in organizational as well as pe
 
 
 
-&lt;figure id=&#34;figure-this-project-has-received-funding-from-the-european-research-council-erc-under-the-european-unions-horizon-2020-research-and-innovation-programme-grant-agreement-no-865931&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.jantsje.nl/media/eu-logo-bw.jpg&#34; data-caption=&#34;This project has received funding from the European Research Council (ERC) under the European Union&amp;amp;rsquo;s Horizon 2020 research and innovation programme (Grant agreement No. 865931).&#34;&gt;
 
-
-  &lt;img src=&#34;https://www.jantsje.nl/media/eu-logo-bw.jpg&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    This project has received funding from the European Research Council (ERC) under the European Union&amp;rsquo;s Horizon 2020 research and innovation programme (Grant agreement No. 865931).
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-this-project-has-received-funding-from-the-european-research-council-erc-under-the-european-unions-horizon-2020-research-and-innovation-programme-grant-agreement-no-637915&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;This project has received funding from the European Research Council (ERC) under the European Union&amp;#39;s Horizon 2020 research and innovation programme (Grant agreement No. 637915).&#34; srcset=&#34;
+               /project/roots_of_corruption/eu-logo-bw_hud89cc0504c815f82b12534a9ae8558d8_100613_9427ca6963392d992712c474c93f5a8e.jpg 400w,
+               /project/roots_of_corruption/eu-logo-bw_hud89cc0504c815f82b12534a9ae8558d8_100613_3265f8091cf9b924f82cbfedc7c65e12.jpg 760w,
+               /project/roots_of_corruption/eu-logo-bw_hud89cc0504c815f82b12534a9ae8558d8_100613_1200x1200_fit_q90_lanczos.jpg 1200w&#34;
+               src=&#34;https://www.behavioralethics.org/project/roots_of_corruption/eu-logo-bw_hud89cc0504c815f82b12534a9ae8558d8_100613_9427ca6963392d992712c474c93f5a8e.jpg&#34;
+               width=&#34;200px&#34;
+               height=&#34;322&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      This project has received funding from the European Research Council (ERC) under the European Union&amp;rsquo;s Horizon 2020 research and innovation programme (Grant agreement No. 637915).
+    &lt;/figcaption&gt;&lt;/figure&gt;
 </description>
     </item>
     
     <item>
       <title>Example Page 2</title>
-      <link>https://www.jantsje.nl/courses/example/example2/</link>
+      <link>https://www.behavioralethics.org/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.jantsje.nl/courses/example/example2/</guid>
+      <guid>https://www.behavioralethics.org/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -153,21 +159,12 @@ Cooperation with others is common and beneficial in organizational as well as pe
     </item>
     
     <item>
-      <title>Corruption</title>
-      <link>https://www.jantsje.nl/project/roots_of_corruption/</link>
+      <title>Honesty</title>
+      <link>https://www.behavioralethics.org/project/honesty/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/project/roots_of_corruption/</guid>
-      <description>&lt;h3&gt; At the roots of corruption: a behavioral ethics approach &lt;/h3&gt; 
-&lt;p&gt;For many years, human cooperation has been praised as beneficial in organizational and personal settings. Indeed, cooperation allows people to develop trust, build meaningful relationships, achieve mutually beneficial outcomes, and strengthen bonding with one&amp;rsquo;s group members. However, while the benefits of cooperation are clear, very little is known about its possible negative aspects. Such negative aspects include the potential emergence of unethical conduct among cooperating partners, or as termed here – corrupt collaboration. Such joint unethical efforts, benefiting (directly or indirectly) one or more of the involved parties, occur in business, sports, and even academia. Corrupt collaboration emerges when one party bends ethical rules (here: lie) to set the stage for another party to further bend ethical rules and get the job done, that is, secure personal profit based on joint unethical acts. We propose that corrupt collaborations most commonly occur when all involved parties gain from the corrupt behavior. The current proposal is aimed at unfolding the roots and nature of corrupt collaborations; their existence, the psychological and biological processes underlying them, and the settings most likely to make corrupt collaboration emerge and spread. Accordingly, the information gathered in the current proposal has the potential to change the commonly held conceptions regarding the unidimensional – positive – nature of cooperation. It will help create a comprehensive understanding of cooperation and, specifically, when it should be encouraged or, alternatively, monitored.&lt;/p&gt;
-
-
-
-
-
-
-
-
-  
+      <guid>https://www.behavioralethics.org/project/honesty/</guid>
+      <description>&lt;h3&gt;From cooperation to dishonesty: How concern for others can lead to unethical behavior&lt;/h3&gt;
+Cooperation with others is common and beneficial in organizational as well as personal settings. Working together allows people to achieve mutually beneficial outcomes and prosper. While the benefits of cooperation are clear, recent work suggests that when people work together (rather than alone) they are more likely to engage in dishonest acts aimed at boosting their profit, apparently because it is easier to justify lying when others share the profit. It thus seems plausible that experiencing cooperation from counterparts may increase people’s likelihood to reciprocate, even when reciprocation requires bending ethical rules. The main aim of the proposed research is to explore whether, and how, cooperation increases people’s concerns regarding their counterparts’ outcomes, and thus encourages bending ethical rules in order to profit the cooperating others. Such dishonest reciprocation, may not only allow one to display care about the other’s outcome, but also increase the likelihood of future cooperation, potentially leading to a slippery-slope spiral of unethical misconduct. Addressing this possibility, a theoretical process-model is developed in which the degree of unethical behavior depends on the degree of experienced cooperation. Specifically, the proposed research has three aims: Identifying (1) situations in which experiencing cooperation translates into dishonest behavior benefiting the other; (2) psychological mechanisms underlying such dishonesty; and (3) situational factors that may remedy such undesired unethical behaviors. The model is systematically tested by employing experimental social psychological and behavioral economic paradigms. Beyond its theoretical contribution to understanding the effects of cooperation on unethical behavior, the project has societal relevance in crafting interventions tailored to boost ethical behavior in organizations and society.
 
 
 
@@ -179,162 +176,160 @@ Cooperation with others is common and beneficial in organizational as well as pe
 
 
 
-&lt;figure id=&#34;figure-this-project-has-received-funding-from-the-european-research-council-erc-under-the-european-unions-horizon-2020-research-and-innovation-programme-grant-agreement-no-637915&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.jantsje.nl/media/eu-logo-bw.jpg&#34; data-caption=&#34;This project has received funding from the European Research Council (ERC) under the European Union&amp;amp;rsquo;s Horizon 2020 research and innovation programme (Grant agreement No. 637915).&#34;&gt;
 
-
-  &lt;img src=&#34;https://www.jantsje.nl/media/eu-logo-bw.jpg&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    This project has received funding from the European Research Council (ERC) under the European Union&amp;rsquo;s Horizon 2020 research and innovation programme (Grant agreement No. 637915).
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
+&lt;figure  id=&#34;figure-this-project-has-received-funding-from-the-people-program-marie-curie-actions-of-the-european-unions-seventh-framework-program-fp72007-2013-rea-grant-agreement-number-333745&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;This project has received funding from the People Program (Marie Curie Actions) of the European Union’s Seventh Framework Program (FP7/2007-2013), REA grant agreement number 333745.&#34; srcset=&#34;
+               /media/FP7-logo_huec14192128ae1c245f67ae97ce0150ce_14452_4b796defbd7a86749ef34813be4c8f86.jpg 400w,
+               /media/FP7-logo_huec14192128ae1c245f67ae97ce0150ce_14452_28352c08c0f9feed7ee385ac8c0c4e6f.jpg 760w,
+               /media/FP7-logo_huec14192128ae1c245f67ae97ce0150ce_14452_1200x1200_fit_q90_lanczos.jpg 1200w&#34;
+               src=&#34;https://www.behavioralethics.org/media/FP7-logo_huec14192128ae1c245f67ae97ce0150ce_14452_4b796defbd7a86749ef34813be4c8f86.jpg&#34;
+               width=&#34;200px;&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      This project has received funding from the People Program (Marie Curie Actions) of the European Union’s Seventh Framework Program (FP7/2007-2013), REA grant agreement number 333745.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 </description>
     </item>
     
     <item>
       <title>Miscellaneous</title>
-      <link>https://www.jantsje.nl/project/miscellaneous/</link>
+      <link>https://www.behavioralethics.org/project/miscellaneous/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/project/miscellaneous/</guid>
+      <guid>https://www.behavioralethics.org/project/miscellaneous/</guid>
       <description>&lt;h3&gt; Miscellaneous: all our other stuff! &lt;/h3&gt; 
 </description>
     </item>
     
     <item>
       <title>The Consequences of Participating in the Sharing Economy: A Transparency-Based Sharing Framework</title>
-      <link>https://www.jantsje.nl/publication/c-kobis-2021/</link>
+      <link>https://www.behavioralethics.org/publication/c-kobis-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/c-kobis-2021/</guid>
+      <guid>https://www.behavioralethics.org/publication/c-kobis-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Similarity increases collaborative cheating</title>
-      <link>https://www.jantsje.nl/publication/irlenbusch-2020/</link>
+      <link>https://www.behavioralethics.org/publication/irlenbusch-2020/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/irlenbusch-2020/</guid>
+      <guid>https://www.behavioralethics.org/publication/irlenbusch-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leaving with something: When do people experience an equity–efficiency conflict?</title>
-      <link>https://www.jantsje.nl/publication/gordon-hecker-2020/</link>
+      <link>https://www.behavioralethics.org/publication/gordon-hecker-2020/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/gordon-hecker-2020/</guid>
+      <guid>https://www.behavioralethics.org/publication/gordon-hecker-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Precision in a Seller&#39;s Market: Round Asking Prices Lead to Higher Counteroffers and Selling Prices</title>
-      <link>https://www.jantsje.nl/publication/leib-2020/</link>
+      <link>https://www.behavioralethics.org/publication/leib-2020/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/leib-2020/</guid>
+      <guid>https://www.behavioralethics.org/publication/leib-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrity, Honesty, and Truth Seeking</title>
-      <link>https://www.jantsje.nl/publication/leib-2021/</link>
+      <link>https://www.behavioralethics.org/publication/leib-2021/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/leib-2021/</guid>
+      <guid>https://www.behavioralethics.org/publication/leib-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experimental Economics for the Environment (poster)</title>
-      <link>https://www.jantsje.nl/talk/heidelberg2020/</link>
+      <link>https://www.behavioralethics.org/talk/heidelberg2020/</link>
       <pubDate>Wed, 19 Feb 2020 09:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/talk/heidelberg2020/</guid>
+      <guid>https://www.behavioralethics.org/talk/heidelberg2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>(Not) alone in the world: Cheating in the presence of a virtual observer</title>
-      <link>https://www.jantsje.nl/publication/mol-2020/</link>
+      <link>https://www.behavioralethics.org/publication/mol-2020/</link>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/mol-2020/</guid>
+      <guid>https://www.behavioralethics.org/publication/mol-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Buy-one-get-one-free deals attract more attention than percentage deals</title>
-      <link>https://www.jantsje.nl/publication/gordon-hecker-2020-a/</link>
+      <link>https://www.behavioralethics.org/publication/gordon-hecker-2020-a/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/gordon-hecker-2020-a/</guid>
+      <guid>https://www.behavioralethics.org/publication/gordon-hecker-2020-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Honesty Speaks a Second Language</title>
-      <link>https://www.jantsje.nl/publication/bereby-meyer-2020/</link>
+      <link>https://www.behavioralethics.org/publication/bereby-meyer-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/bereby-meyer-2020/</guid>
+      <guid>https://www.behavioralethics.org/publication/bereby-meyer-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Requiem for a Nudge: Framing effects in nudging honesty</title>
-      <link>https://www.jantsje.nl/publication/dimant-2020/</link>
+      <link>https://www.behavioralethics.org/publication/dimant-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/dimant-2020/</guid>
+      <guid>https://www.behavioralethics.org/publication/dimant-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The implicit honesty premium: Why honest advice is more persuasive than highly informed advice</title>
-      <link>https://www.jantsje.nl/publication/haran-2020/</link>
+      <link>https://www.behavioralethics.org/publication/haran-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/haran-2020/</guid>
+      <guid>https://www.behavioralethics.org/publication/haran-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social norms of corruption in the field: social nudges on posters can help to reduce bribery</title>
-      <link>https://www.jantsje.nl/publication/kobis-2019-a/</link>
+      <link>https://www.behavioralethics.org/publication/kobis-2019-a/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/kobis-2019-a/</guid>
+      <guid>https://www.behavioralethics.org/publication/kobis-2019-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intuitive Honesty Versus Dishonesty: Meta-Analytic Evidence</title>
-      <link>https://www.jantsje.nl/publication/kobis-2019-c/</link>
+      <link>https://www.behavioralethics.org/publication/kobis-2019-c/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/kobis-2019-c/</guid>
+      <guid>https://www.behavioralethics.org/publication/kobis-2019-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Group moral discount: Diffusing blame when judging group members</title>
-      <link>https://www.jantsje.nl/publication/vainapel-2019/</link>
+      <link>https://www.behavioralethics.org/publication/vainapel-2019/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/vainapel-2019/</guid>
+      <guid>https://www.behavioralethics.org/publication/vainapel-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is the victim Max (Planck) or Moritz ? How victim type and social value orientation affect dishonest behavior</title>
-      <link>https://www.jantsje.nl/publication/soraperra-2019-a/</link>
+      <link>https://www.behavioralethics.org/publication/soraperra-2019-a/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/soraperra-2019-a/</guid>
+      <guid>https://www.behavioralethics.org/publication/soraperra-2019-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://www.jantsje.nl/slides/example/</link>
+      <link>https://www.behavioralethics.org/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/slides/example/</guid>
+      <guid>https://www.behavioralethics.org/slides/example/</guid>
       <description>&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -461,345 +456,345 @@ Three
     
     <item>
       <title>A Market for Integrity - An Experiment on Corruption in the Education Sector</title>
-      <link>https://www.jantsje.nl/publication/soraperra-2019-b/</link>
+      <link>https://www.behavioralethics.org/publication/soraperra-2019-b/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/soraperra-2019-b/</guid>
+      <guid>https://www.behavioralethics.org/publication/soraperra-2019-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dishonest helping and harming after (Un)fair treatment</title>
-      <link>https://www.jantsje.nl/publication/leib-2019-a/</link>
+      <link>https://www.behavioralethics.org/publication/leib-2019-a/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/leib-2019-a/</guid>
+      <guid>https://www.behavioralethics.org/publication/leib-2019-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Doing Bad to Look Good: Negative Consequences of Image Concerns on Prosocial Behavior</title>
-      <link>https://www.jantsje.nl/publication/soraperra-2019/</link>
+      <link>https://www.behavioralethics.org/publication/soraperra-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/soraperra-2019/</guid>
+      <guid>https://www.behavioralethics.org/publication/soraperra-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Financial temptation increases civic honesty</title>
-      <link>https://www.jantsje.nl/publication/shalvi-2019-a/</link>
+      <link>https://www.behavioralethics.org/publication/shalvi-2019-a/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/shalvi-2019-a/</guid>
+      <guid>https://www.behavioralethics.org/publication/shalvi-2019-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Loss framing increases self-serving mistakes (but does not alter attention)</title>
-      <link>https://www.jantsje.nl/publication/leib-2019/</link>
+      <link>https://www.behavioralethics.org/publication/leib-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/leib-2019/</guid>
+      <guid>https://www.behavioralethics.org/publication/leib-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shooting the Messenger? Supply and Demand in Markets for Willful Ignorance</title>
-      <link>https://www.jantsje.nl/publication/shalvi-2019/</link>
+      <link>https://www.behavioralethics.org/publication/shalvi-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/shalvi-2019/</guid>
+      <guid>https://www.behavioralethics.org/publication/shalvi-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncertain lies: How payoff uncertainty affects dishonesty</title>
-      <link>https://www.jantsje.nl/publication/celse-2019/</link>
+      <link>https://www.behavioralethics.org/publication/celse-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/celse-2019/</guid>
+      <guid>https://www.behavioralethics.org/publication/celse-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ethical Free Riding: When Honest People Find Dishonest Partners</title>
-      <link>https://www.jantsje.nl/publication/gross-2018/</link>
+      <link>https://www.behavioralethics.org/publication/gross-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/gross-2018/</guid>
+      <guid>https://www.behavioralethics.org/publication/gross-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Taxing the Brain to Uncover Lying? Meta-analyzing the Effect of Imposing Cognitive Load on the Reaction-Time Costs of Lying</title>
-      <link>https://www.jantsje.nl/publication/verschuere-2018/</link>
+      <link>https://www.behavioralethics.org/publication/verschuere-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/verschuere-2018/</guid>
+      <guid>https://www.behavioralethics.org/publication/verschuere-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The bad consequences of teamwork</title>
-      <link>https://www.jantsje.nl/publication/soraperra-2017/</link>
+      <link>https://www.behavioralethics.org/publication/soraperra-2017/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/soraperra-2017/</guid>
+      <guid>https://www.behavioralethics.org/publication/soraperra-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What Provides Justification for Cheating-Producing or Observing Counterfactuals?</title>
-      <link>https://www.jantsje.nl/publication/bassarak-2017/</link>
+      <link>https://www.behavioralethics.org/publication/bassarak-2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/bassarak-2017/</guid>
+      <guid>https://www.behavioralethics.org/publication/bassarak-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The effects of extreme rituals on moral behavior: The performers-observers gap hypothesis</title>
-      <link>https://www.jantsje.nl/publication/mitkidis-2017/</link>
+      <link>https://www.behavioralethics.org/publication/mitkidis-2017/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/mitkidis-2017/</guid>
+      <guid>https://www.behavioralethics.org/publication/mitkidis-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Not taking responsibility: Equity trumps efficiency in allocation decisions</title>
-      <link>https://www.jantsje.nl/publication/gordon-hecker-2017/</link>
+      <link>https://www.behavioralethics.org/publication/gordon-hecker-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/gordon-hecker-2017/</guid>
+      <guid>https://www.behavioralethics.org/publication/gordon-hecker-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Support for redistribution is shaped by compassion, envy, and self-interest, but not a taste for fairness</title>
-      <link>https://www.jantsje.nl/publication/sznycer-2017/</link>
+      <link>https://www.behavioralethics.org/publication/sznycer-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/sznycer-2017/</guid>
+      <guid>https://www.behavioralethics.org/publication/sznycer-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Too Lucky to Be True: Fairness Views under the Shadow of Cheating</title>
-      <link>https://www.jantsje.nl/publication/bortolotti-2017/</link>
+      <link>https://www.behavioralethics.org/publication/bortolotti-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/bortolotti-2017/</guid>
+      <guid>https://www.behavioralethics.org/publication/bortolotti-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lies that feel honest: Dissociating between incentive and deviance processing when evaluating dishonesty</title>
-      <link>https://www.jantsje.nl/publication/lelieveld-2016-a/</link>
+      <link>https://www.behavioralethics.org/publication/lelieveld-2016-a/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/lelieveld-2016-a/</guid>
+      <guid>https://www.behavioralethics.org/publication/lelieveld-2016-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Corruption corrupts</title>
-      <link>https://www.jantsje.nl/publication/shalvi-2016/</link>
+      <link>https://www.behavioralethics.org/publication/shalvi-2016/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/shalvi-2016/</guid>
+      <guid>https://www.behavioralethics.org/publication/shalvi-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shame closely tracks the threat of devaluation by others, even across cultures</title>
-      <link>https://www.jantsje.nl/publication/sznycer-2016/</link>
+      <link>https://www.behavioralethics.org/publication/sznycer-2016/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/sznycer-2016/</guid>
+      <guid>https://www.behavioralethics.org/publication/sznycer-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One-by-One or All-at-Once? Self-Reporting Policies and Dishonesty</title>
-      <link>https://www.jantsje.nl/publication/rilke-2016/</link>
+      <link>https://www.behavioralethics.org/publication/rilke-2016/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/rilke-2016/</guid>
+      <guid>https://www.behavioralethics.org/publication/rilke-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Corrupt collaboration: a behavioral ethics approach</title>
-      <link>https://www.jantsje.nl/publication/shalvi-2016-a/</link>
+      <link>https://www.behavioralethics.org/publication/shalvi-2016-a/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/shalvi-2016-a/</guid>
+      <guid>https://www.behavioralethics.org/publication/shalvi-2016-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rule orientation and behavior: Development and validation of a scale measuring individual acceptance of rule violation</title>
-      <link>https://www.jantsje.nl/publication/fine-2016/</link>
+      <link>https://www.behavioralethics.org/publication/fine-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/fine-2016/</guid>
+      <guid>https://www.behavioralethics.org/publication/fine-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Editorial overview: Morality and ethics: New directions in the study of morality and ethics</title>
-      <link>https://www.jantsje.nl/publication/gino-2015-a/</link>
+      <link>https://www.behavioralethics.org/publication/gino-2015-a/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/gino-2015-a/</guid>
+      <guid>https://www.behavioralethics.org/publication/gino-2015-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Justifications Shape Ethical Blind Spots</title>
-      <link>https://www.jantsje.nl/publication/pittarello-2015/</link>
+      <link>https://www.behavioralethics.org/publication/pittarello-2015/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/pittarello-2015/</guid>
+      <guid>https://www.behavioralethics.org/publication/pittarello-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-Serving Justifications</title>
-      <link>https://www.jantsje.nl/publication/shalvi-2015-a/</link>
+      <link>https://www.behavioralethics.org/publication/shalvi-2015-a/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/shalvi-2015-a/</guid>
+      <guid>https://www.behavioralethics.org/publication/shalvi-2015-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deliberate honesty</title>
-      <link>https://www.jantsje.nl/publication/bereby-meyer-2015/</link>
+      <link>https://www.behavioralethics.org/publication/bereby-meyer-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/bereby-meyer-2015/</guid>
+      <guid>https://www.behavioralethics.org/publication/bereby-meyer-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The collaborative roots of corruption</title>
-      <link>https://www.jantsje.nl/publication/weisel-2015-b/</link>
+      <link>https://www.behavioralethics.org/publication/weisel-2015-b/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/weisel-2015-b/</guid>
+      <guid>https://www.behavioralethics.org/publication/weisel-2015-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Truth Comes Naturally! Does It?</title>
-      <link>https://www.jantsje.nl/publication/verschuere-2014/</link>
+      <link>https://www.behavioralethics.org/publication/verschuere-2014/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/verschuere-2014/</guid>
+      <guid>https://www.behavioralethics.org/publication/verschuere-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oxytocin promotes group-serving dishonesty</title>
-      <link>https://www.jantsje.nl/publication/shalvi-2014/</link>
+      <link>https://www.behavioralethics.org/publication/shalvi-2014/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/shalvi-2014/</guid>
+      <guid>https://www.behavioralethics.org/publication/shalvi-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Being Honest About Dishonesty: Correlating Self-Reports and Actual Lying</title>
-      <link>https://www.jantsje.nl/publication/halevy-2014-a/</link>
+      <link>https://www.behavioralethics.org/publication/halevy-2014-a/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/halevy-2014-a/</guid>
+      <guid>https://www.behavioralethics.org/publication/halevy-2014-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-reported ethical risk taking tendencies predict actual dishonesty</title>
-      <link>https://www.jantsje.nl/publication/zimerman-2014/</link>
+      <link>https://www.behavioralethics.org/publication/zimerman-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/zimerman-2014/</guid>
+      <guid>https://www.behavioralethics.org/publication/zimerman-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>“I cheated, but only a little”: Partial confessions to unethical behavior.</title>
-      <link>https://www.jantsje.nl/publication/peer-2014/</link>
+      <link>https://www.behavioralethics.org/publication/peer-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/peer-2014/</guid>
+      <guid>https://www.behavioralethics.org/publication/peer-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Moral firmness</title>
-      <link>https://www.jantsje.nl/publication/shalvi-2013/</link>
+      <link>https://www.behavioralethics.org/publication/shalvi-2013/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/shalvi-2013/</guid>
+      <guid>https://www.behavioralethics.org/publication/shalvi-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Honesty requires time — a reply to Foerster et al. (2013)</title>
-      <link>https://www.jantsje.nl/publication/shalvi-2013-a/</link>
+      <link>https://www.behavioralethics.org/publication/shalvi-2013-a/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/shalvi-2013-a/</guid>
+      <guid>https://www.behavioralethics.org/publication/shalvi-2013-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Honesty Requires Time (and Lack of Justifications)</title>
-      <link>https://www.jantsje.nl/publication/shalvi-2012-b/</link>
+      <link>https://www.behavioralethics.org/publication/shalvi-2012-b/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/shalvi-2012-b/</guid>
+      <guid>https://www.behavioralethics.org/publication/shalvi-2012-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dishonestly increasing the likelihood of winning</title>
-      <link>https://www.jantsje.nl/publication/shalvi-2012-a/</link>
+      <link>https://www.behavioralethics.org/publication/shalvi-2012-a/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/shalvi-2012-a/</guid>
+      <guid>https://www.behavioralethics.org/publication/shalvi-2012-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People avoid situations that enable them to deceive others</title>
-      <link>https://www.jantsje.nl/publication/shalvi-2011-b/</link>
+      <link>https://www.behavioralethics.org/publication/shalvi-2011-b/</link>
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/shalvi-2011-b/</guid>
+      <guid>https://www.behavioralethics.org/publication/shalvi-2011-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Right Side? Under Time Pressure, Approach Motivation Leads to Right-Oriented Bias</title>
-      <link>https://www.jantsje.nl/publication/roskes-2011/</link>
+      <link>https://www.behavioralethics.org/publication/roskes-2011/</link>
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/roskes-2011/</guid>
+      <guid>https://www.behavioralethics.org/publication/roskes-2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Justified ethicality: Observing desired counterfactuals modifies ethical perceptions and behavior</title>
-      <link>https://www.jantsje.nl/publication/shalvi-2011/</link>
+      <link>https://www.behavioralethics.org/publication/shalvi-2011/</link>
       <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/shalvi-2011/</guid>
+      <guid>https://www.behavioralethics.org/publication/shalvi-2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ethical Manoeuvring: Why People Avoid Both Major and Minor Lies</title>
-      <link>https://www.jantsje.nl/publication/shalvi-2011-c/</link>
+      <link>https://www.behavioralethics.org/publication/shalvi-2011-c/</link>
       <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/shalvi-2011-c/</guid>
+      <guid>https://www.behavioralethics.org/publication/shalvi-2011-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oxytocin promotes human ethnocentrism</title>
-      <link>https://www.jantsje.nl/publication/de-dreu-2011/</link>
+      <link>https://www.behavioralethics.org/publication/de-dreu-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/de-dreu-2011/</guid>
+      <guid>https://www.behavioralethics.org/publication/de-dreu-2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Overcoming Initial Anchors: The Effect of Negotiators&#39; Dispositional Control Beliefs</title>
-      <link>https://www.jantsje.nl/publication/shalvi-2010/</link>
+      <link>https://www.behavioralethics.org/publication/shalvi-2010/</link>
       <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/shalvi-2010/</guid>
+      <guid>https://www.behavioralethics.org/publication/shalvi-2010/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Neuropeptide Oxytocin Regulates Parochial Altruism in Intergroup Conflict Among Humans</title>
-      <link>https://www.jantsje.nl/publication/de-dreu-2010/</link>
+      <link>https://www.behavioralethics.org/publication/de-dreu-2010/</link>
       <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/de-dreu-2010/</guid>
+      <guid>https://www.behavioralethics.org/publication/de-dreu-2010/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Write when hot - submit when not: seasonal bias in peer review or acceptance?</title>
-      <link>https://www.jantsje.nl/publication/shalvi-2010-a/</link>
+      <link>https://www.behavioralethics.org/publication/shalvi-2010-a/</link>
       <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://www.jantsje.nl/publication/shalvi-2010-a/</guid>
+      <guid>https://www.behavioralethics.org/publication/shalvi-2010-a/</guid>
       <description></description>
     </item>
     

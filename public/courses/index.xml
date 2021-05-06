@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | Behavioral Ethics Lab</title>
-    <link>https://www.jantsje.nl/courses/</link>
-      <atom:link href="https://www.jantsje.nl/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.behavioralethics.org/courses/</link>
+      <atom:link href="https://www.behavioralethics.org/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Behavioral Ethics Lab © 2021</copyright><lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://www.jantsje.nl/images/icon_hue79c9617451b43386f4505d9bbf948d0_14414_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.behavioralethics.org/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Courses</title>
-      <link>https://www.jantsje.nl/courses/</link>
+      <link>https://www.behavioralethics.org/courses/</link>
     </image>
     
   </channel>
