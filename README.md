@@ -59,9 +59,6 @@ You might get a message `target file already exists` and you can tick `overwrite
 I keep a copy in a [Github repository](https://github.com/jantsje/website_behavioralethics) 
 which is also where this Readme is located. Every time you update the website by pushing to the server, 
 you should also push the changes to Git. Try to attach a meaningful message to the changes. I use [Git Bash](https://gitforwindows.org).
-<<<<<<< HEAD
 
-You can use `cd` to navigate to the root of the project and `git add .` and `git commit -m "your message here"` and `git push origin master`. 
-=======
-You can run `cd ../website_behavioralethics`
->>>>>>> c89c92a599efbba9cf29fef802043f26da3e726f
+
+You can use `cd` to navigate to the root of the project and `git add .` and `git commit -m "your message here"` and `git push origin master`.
