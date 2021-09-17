@@ -5,7 +5,7 @@
     <link>https://www.behavioralethics.org/post/</link>
       <atom:link href="https://www.behavioralethics.org/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Behavioral Ethics Lab © 2021</copyright><lastBuildDate>Thu, 27 May 2021 20:30:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Behavioral Ethics Lab © 2021</copyright><lastBuildDate>Mon, 30 Aug 2021 20:30:00 +0200</lastBuildDate>
     <image>
       <url>https://www.behavioralethics.org/media/icon_hue79c9617451b43386f4505d9bbf948d0_14414_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
@@ -13,13 +13,21 @@
     </image>
     
     <item>
-      <title>Shaul Shalvi on Dutch television</title>
+      <title>Behavioral Ethics lab complete</title>
+      <link>https://www.behavioralethics.org/post/lab/</link>
+      <pubDate>Mon, 30 Aug 2021 20:30:00 +0200</pubDate>
+      <guid>https://www.behavioralethics.org/post/lab/</guid>
+      <description>&lt;img src=&#34;featured.jpg&#34;&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dyadic die rolling on Dutch TV</title>
       <link>https://www.behavioralethics.org/post/scherder/</link>
       <pubDate>Thu, 27 May 2021 20:30:00 +0200</pubDate>
       <guid>https://www.behavioralethics.org/post/scherder/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.npostart.nl/erik-scherder-onderzoekt/27-05-2021/VPWON_1325232&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;featured.jpg&#34;&gt;&lt;/a&gt;
-In May 2021 Shaul Shalvi made an appearance on Dutch television in the popular science program Erik Scherder Onderzoekt.
-Click on the image to watch the full episode.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.npostart.nl/erik-scherder-onderzoekt/27-05-2021/VPWON_1325232&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;featured.JPG&#34;&gt;&lt;/a&gt;
+When do people tell the truth? The popular science Dutch TV show &lt;em&gt;Erik Scherder Onderzoekt&lt;/em&gt; replicated the dyadic die rolling experiment at an Amsterdam casino.&lt;/p&gt;
+&lt;p&gt;Click on the image to watch the full episode.&lt;/p&gt;
 </description>
     </item>
     
