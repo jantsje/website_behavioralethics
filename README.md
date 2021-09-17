@@ -1,4 +1,4 @@
-#Website behavioralethics.org
+# Website behavioralethics.org
 
 Here is a readme to explain how to update our lab website www.behavioralethics.org. 
 Expect clear instructions but no passwords. 
