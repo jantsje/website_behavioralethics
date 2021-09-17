@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Shaul Shalvi on Dutch television"
+title: "Dyadic die rolling on Dutch TV"
 subtitle: ""
 summary: ""
 authors: 
@@ -28,12 +28,13 @@ image:
 #   Otherwise, set `projects = []`.
 projects: ['honesty']
 
-summary: In May 2021 Shaul Shalvi made an appearance on Dutch television in the popular science program Erik Scherder Onderzoekt.
+summary: When do people tell the truth? The popular science Dutch TV show *Erik Scherder Onderzoekt* replicated the dyadic die rolling experiment at an Amsterdam casino
 
 links:
   - name: Video
     url: 'https://www.npostart.nl/erik-scherder-onderzoekt/27-05-2021/VPWON_1325232'
 ---
-[<img src="featured.jpg">](https://www.npostart.nl/erik-scherder-onderzoekt/27-05-2021/VPWON_1325232)
-In May 2021 Shaul Shalvi made an appearance on Dutch television in the popular science program Erik Scherder Onderzoekt.
+[<img src="featured.JPG">](https://www.npostart.nl/erik-scherder-onderzoekt/27-05-2021/VPWON_1325232)
+When do people tell the truth? The popular science Dutch TV show *Erik Scherder Onderzoekt* replicated the dyadic die rolling experiment at an Amsterdam casino.
+
 Click on the image to watch the full episode. 
