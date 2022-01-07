@@ -39,6 +39,16 @@ publication_types:
 - '2'
 abstract: "We examine framing effects in nudging honesty, in the spirit of the growing norm-nudge literature, by utilizing a high-powered and pre-registered study. Across four treatments, participants received one random truthful norm-nudge that emphasized ‘moral suasion based on either what other participants previously did (empirical message) or approved of doing (normative message) and varied in the framing (positive or negative) in which it was presented. Subsequently, participants repeatedly played the ‘mind game' in which they were first asked to think of a number, then rolled a digital die, and then reported whether the two numbers coincide, in which case a bonus was paid. Hence, whether or not the report was truthful remained unobservable to the experimenters. We find compelling null effects with tight confidence intervals showing that none of the norm-nudge interventions worked. A follow-up experiment reveals the reason for these convincing null-effects: the information norm-nudges did not actually change norms. Notably, our secondary results suggest that a substantial portion of individuals misremembered norm-nudges such that they conveniently supported deviant behavior. This subset of participants indeed displayed significantly higher deviance levels, a behavior pattern in line with literature on motivated misremembering and belief distortion. We discuss the importance of this high-powered null finding for the flourishing norm-nudge literature and derive policy implications."
 publication: '*Journal of Economic Behavior and Organization*'
-url_pdf: https://pure.uva.nl/ws/files/50468265/Dimant_et_al._2020_JEBO_Framing_Effects_in_Nudging_Honesty.pdf
-doi: 10.1016/j.jebo.2020.02.015
+
+
+links:
+  - name: PDF
+    url: 'https://pure.uva.nl/ws/files/50468265/Dimant_et_al._2020_JEBO_Framing_Effects_in_Nudging_Honesty.pdf'
+  - name: DOI
+    url: 'https://doi.org/10.1016/j.jebo.2020.02.015'
+  - name: Data & Analyses
+    url: 'https://osf.io/z4etj/'
+  - name: Pre-registration
+    url: 'https://osf.io/txe2b/'
+    
 ---

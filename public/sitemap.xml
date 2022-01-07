@@ -1,2087 +1,1253 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.behavioralethics.org/project/trustpath/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/project/roots_of_corruption/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/project/honesty/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/project/miscellaneous/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/shaul-shalvi/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/ivan-soraperra/</loc>
     <lastmod>2021-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/nils-kobis/</loc>
     <lastmod>2021-02-09T16:03:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/charlotte-ringdal/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/margarita-leib/</loc>
     <lastmod>2021-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/andrea-pittarello/</loc>
     <lastmod>2021-02-09T17:03:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/tom-gordon-hecker/</loc>
     <lastmod>2021-02-09T17:03:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/linh-vu/</loc>
     <lastmod>2021-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/catherine-molho/</loc>
     <lastmod>2021-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/jantsje-mol/</loc>
     <lastmod>2021-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication-type/2/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/authors/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/information/</loc>
     <lastmod>2021-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/platform-economy/</loc>
     <lastmod>2021-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/shalvi-2021/</loc>
     <lastmod>2021-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication_types/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/responsible-sharing/</loc>
     <lastmod>2021-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tags/</loc>
     <lastmod>2021-09-15T12:30:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/trust/</loc>
     <lastmod>2021-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/willful-ignorance/</loc>
     <lastmod>2021-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/post/lab/</loc>
     <lastmod>2021-08-30T20:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/post/</loc>
     <lastmod>2021-08-30T20:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/post/scherder/</loc>
     <lastmod>2021-05-27T20:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/image-concerns/</loc>
     <lastmod>2021-09-15T12:30:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/leadership/</loc>
     <lastmod>2021-09-15T12:30:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/adam-w.-stivers/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/adrian-netedu/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/alexandros-andreas-kyrtsis/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/ali-mashuri/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/anastasia-danilov/</loc>
     <lastmod>2021-09-15T12:30:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/angelo-romano/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/ann-tenbrunsel/</loc>
     <lastmod>2021-09-15T12:30:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/aurelia-mok/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/bernd-irlenbusch/</loc>
     <lastmod>2021-09-15T12:30:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/bernd-weber/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/boris-maciejovsky/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/camilo-garcia/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/cecilia-reyna/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/chandrasekhar-pammi/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/christopher-p.-reinders-folmer/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/claudia-simao/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/collaborative-economy/</loc>
     <lastmod>2021-02-05T11:32:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/d.-michael-kuhlman/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/efrat-aharonov-majar/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/elizabeth-immer-bernold/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/fabian-winter/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/geoffrey-j.-leonardelli/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/gig-economy/</loc>
     <lastmod>2021-02-05T11:32:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/gokhan-karagonlar/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/honesty/</loc>
     <lastmod>2021-09-15T12:30:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/hyun-euh/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/ian-larkin/</loc>
     <lastmod>2021-09-15T12:30:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/inna-bovina/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/jan-b.-engelmann/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/jeff-joireman/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/jose-c.-yong/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/junhui-wu/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/justin-friesen/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/karin-s.-moser/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/karolina-raczka-winkler/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/katarzyna-growiec/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/kerry-kawakami/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/kimmo-eriksson/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/kitty-b.-dumont/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/ladislav-motak/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/lamar-pierce/</loc>
     <lastmod>2021-09-15T12:30:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/leander-van-der-meij/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/liying-bai/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/marcello-gallucci/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/martina-hrebickova/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/michael-j.-platow/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/weisel-2021/</loc>
     <lastmod>2021-09-15T12:30:28+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/nancy-r.-buchan/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/niels-j.-van-doesum/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/norman-p.-li/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/on-demand-economy/</loc>
     <lastmod>2021-02-05T11:32:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/ori-weisel/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/paul-a.-m.-van-lange/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/pontus-strimling/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/rainer-michael-rilke/</loc>
     <lastmod>2021-09-15T12:30:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/robert-bohm/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/roberto-gonzalez/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/ryan-o.-murphy/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/serge-guimond/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/simon-gachter/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/siugmin-lay/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/van-doesum-2021/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/sonja-utz/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/susann-fiedler/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/sven-waldzus/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/sylvie-graf/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/c-kobis-2021/</loc>
     <lastmod>2021-02-05T11:32:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/larkin-2021/</loc>
     <lastmod>2021-09-15T12:30:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/tim-wildschut/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/toko-kiyonari/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/ursula-athenstaedt/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/rilke-2021/</loc>
     <lastmod>2021-09-15T12:30:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/wing-tung-au/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/xiao-ping-chen/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/yang-li/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/yannis-tsirbas/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/yiwen-wang/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/yu-kou/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/zoi-manesi/</loc>
     <lastmod>2021-09-15T13:41:26+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/project/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/alexa-weiss/</loc>
     <lastmod>2021-02-09T14:33:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/cheating/</loc>
     <lastmod>2021-02-09T17:03:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/codes-of-ethical-conduct/</loc>
     <lastmod>2021-02-09T14:33:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/david-j.-saxler/</loc>
     <lastmod>2021-02-09T14:33:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/four-eyes-principle/</loc>
     <lastmod>2021-02-09T14:33:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/lying/</loc>
     <lastmod>2021-02-09T17:03:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/similarity/</loc>
     <lastmod>2021-02-09T14:33:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/irlenbusch-2020/</loc>
     <lastmod>2021-02-09T14:33:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/social-responsibility/</loc>
     <lastmod>2021-02-09T14:33:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/thomas-mussweiler/</loc>
     <lastmod>2021-02-09T14:33:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/two-man-rule/</loc>
     <lastmod>2021-02-09T14:33:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/whistle-blowing/</loc>
     <lastmod>2021-02-09T14:33:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/efficiency/</loc>
     <lastmod>2021-02-09T16:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/equity/</loc>
     <lastmod>2021-02-09T16:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/iris-k.-schneider/</loc>
     <lastmod>2021-02-09T16:03:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/gordon-hecker-2020/</loc>
     <lastmod>2021-02-09T16:03:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/mouse-tracking/</loc>
     <lastmod>2021-02-09T16:03:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/process-tracing/</loc>
     <lastmod>2021-02-09T16:03:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/resource-allocation/</loc>
     <lastmod>2021-02-09T16:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/tom-gordonhecker/</loc>
     <lastmod>2021-02-09T16:03:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/yoella-berebymeyer/</loc>
     <lastmod>2021-02-09T16:03:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/marc-francke/</loc>
     <lastmod>2021-02-09T16:03:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/marieke-roskes/</loc>
     <lastmod>2021-02-09T16:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/leib-2020/</loc>
     <lastmod>2021-02-09T16:03:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication-type/6/</loc>
     <lastmod>2021-02-09T18:00:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/leib-2021/</loc>
     <lastmod>2021-02-09T18:00:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/talk/heidelberg2020/</loc>
     <lastmod>2020-02-19T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/talk/</loc>
     <lastmod>2020-02-19T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/mol-2020/</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/eline-c-m-van-der-heijden/</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/jan-j-m-potters/</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/virtual-reality-experiment/</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/watching-eyes-effect/</loc>
     <lastmod>2020-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/advice/</loc>
     <lastmod>2021-02-09T14:33:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/albert-costa/</loc>
     <lastmod>2021-02-09T14:32:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/attention/</loc>
     <lastmod>2021-02-09T16:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/behavioral-economics/</loc>
     <lastmod>2021-02-09T17:03:38+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/boaz-keysar/</loc>
     <lastmod>2021-02-09T14:32:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/gordon-hecker-2020-a/</loc>
     <lastmod>2021-02-09T16:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/decision-making/</loc>
     <lastmod>2021-02-09T17:03:38+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/deliberation/</loc>
     <lastmod>2021-02-09T14:32:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/dishonesty/</loc>
     <lastmod>2021-02-09T17:03:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/error/</loc>
     <lastmod>2021-02-09T14:33:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/eugen-dimant/</loc>
     <lastmod>2021-02-09T14:33:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/gerben-a.-van-kleef/</loc>
     <lastmod>2021-02-09T16:03:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/bereby-meyer-2020/</loc>
     <lastmod>2021-02-09T14:32:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/joanna-d.-corey/</loc>
     <lastmod>2021-02-09T14:32:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/language/</loc>
     <lastmod>2021-02-09T14:32:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/norm-nudges/</loc>
     <lastmod>2021-02-09T14:33:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/nudge/</loc>
     <lastmod>2021-02-09T14:33:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/online-commerce/</loc>
     <lastmod>2021-02-09T16:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/preferences/</loc>
     <lastmod>2021-02-09T16:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/promotion-deals/</loc>
     <lastmod>2021-02-09T16:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/dimant-2020/</loc>
     <lastmod>2021-02-09T14:33:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/sayuri-hayakawa/</loc>
     <lastmod>2021-02-09T14:32:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/social-information/</loc>
     <lastmod>2021-02-09T14:33:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/social-norms/</loc>
     <lastmod>2021-02-09T14:33:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/suspicion/</loc>
     <lastmod>2021-02-09T14:33:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/haran-2020/</loc>
     <lastmod>2021-02-09T14:33:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/uncertainty/</loc>
     <lastmod>2021-02-09T14:33:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/uriel-haran/</loc>
     <lastmod>2021-02-09T14:33:02+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/yoella-bereby-meyer/</loc>
     <lastmod>2021-02-09T17:03:38+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/cyril-owen-brandt/</loc>
     <lastmod>2021-02-05T11:32:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/marleen-troost/</loc>
     <lastmod>2021-02-05T11:32:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/kobis-2019-a/</loc>
     <lastmod>2021-02-05T11:32:51+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/behavioral-ethics/</loc>
     <lastmod>2021-02-09T17:03:38+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/bruno-verschuere/</loc>
     <lastmod>2021-02-09T17:03:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/david-rand/</loc>
     <lastmod>2021-02-09T14:33:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/ethical-behavior/</loc>
     <lastmod>2021-02-09T14:33:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/intuition/</loc>
     <lastmod>2021-02-09T14:33:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/kobis-2019-c/</loc>
     <lastmod>2021-02-09T14:33:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/moral-psychology/</loc>
     <lastmod>2021-02-09T14:33:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/unethical-behavior/</loc>
     <lastmod>2021-02-09T17:03:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/framing/</loc>
     <lastmod>2021-02-09T14:33:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/group-behavior/</loc>
     <lastmod>2021-02-09T14:33:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/vainapel-2019/</loc>
     <lastmod>2021-02-09T14:33:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/soraperra-2019-a/</loc>
     <lastmod>2021-02-05T11:32:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/judgment/</loc>
     <lastmod>2021-02-09T17:03:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/matteo-ploner/</loc>
     <lastmod>2021-02-05T11:32:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/roi-zultan/</loc>
     <lastmod>2021-02-09T14:33:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/sigal-vainapel/</loc>
     <lastmod>2021-02-09T14:33:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/social-value-orientation/</loc>
     <lastmod>2021-02-05T11:32:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/victim-type/</loc>
     <lastmod>2021-02-05T11:32:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication-type/3/</loc>
     <lastmod>2021-02-05T11:32:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/soraperra-2019-b/</loc>
     <lastmod>2021-02-05T11:32:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/ambiguous-dice-paradigm/</loc>
     <lastmod>2021-02-09T14:33:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/anton-suvorov/</loc>
     <lastmod>2021-02-05T11:41:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/charles-efferson/</loc>
     <lastmod>2021-02-05T11:32:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/corruption/</loc>
     <lastmod>2021-02-09T14:33:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/credence-goods/</loc>
     <lastmod>2021-02-05T11:41:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/dishonest-behavior/</loc>
     <lastmod>2021-02-09T14:33:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/leib-2019-a/</loc>
     <lastmod>2021-02-09T14:33:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/soraperra-2019/</loc>
     <lastmod>2021-02-05T11:41:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/education/</loc>
     <lastmod>2021-02-05T11:32:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/ethical-decision-making/</loc>
     <lastmod>2021-02-09T17:03:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/experiment/</loc>
     <lastmod>2021-02-09T17:03:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/eye-tracking/</loc>
     <lastmod>2021-02-09T14:33:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/fairness/</loc>
     <lastmod>2021-02-09T14:33:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/shalvi-2019-a/</loc>
     <lastmod>2021-02-09T17:03:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/information-avoidance/</loc>
     <lastmod>2021-02-05T11:32:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/jeroen-van-de-ven/</loc>
     <lastmod>2021-02-05T11:41:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/joel-j.-van-der-weele/</loc>
     <lastmod>2021-02-05T11:32:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/jeremy-celse/</loc>
     <lastmod>2021-02-05T11:32:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/lies/</loc>
     <lastmod>2021-02-09T17:03:38+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/leib-2019/</loc>
     <lastmod>2021-02-09T14:33:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/marie-claire-villeval/</loc>
     <lastmod>2021-02-05T11:41:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/motivated-mistakes/</loc>
     <lastmod>2021-02-09T14:33:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/nils-kobis/</loc>
     <lastmod>2021-02-05T11:32:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/prosocial-behavior/</loc>
     <lastmod>2021-02-05T11:41:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/reputation/</loc>
     <lastmod>2021-02-05T11:41:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/self-deception/</loc>
     <lastmod>2021-02-09T17:03:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/shalvi-2019/</loc>
     <lastmod>2021-02-05T11:32:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/simone-moran/</loc>
     <lastmod>2021-02-09T16:03:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/social-image/</loc>
     <lastmod>2021-02-05T11:41:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/sonja-vogt/</loc>
     <lastmod>2021-02-05T11:32:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/sylvain-max/</loc>
     <lastmod>2021-02-05T11:32:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/theo-offerman/</loc>
     <lastmod>2021-02-09T14:33:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/theory/</loc>
     <lastmod>2021-02-05T11:32:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/celse-2019/</loc>
     <lastmod>2021-02-05T11:32:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/wolfgang-steinel/</loc>
     <lastmod>2021-02-05T11:32:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/cognitive-load/</loc>
     <lastmod>2021-02-09T17:03:32+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/collaboration/</loc>
     <lastmod>2021-02-09T14:33:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/cooperation/</loc>
     <lastmod>2021-02-09T14:33:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/deception/</loc>
     <lastmod>2021-02-09T17:03:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/gross-2018/</loc>
     <lastmod>2021-02-09T14:33:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/jorg-gross/</loc>
     <lastmod>2021-02-09T14:33:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/lie-detection/</loc>
     <lastmod>2021-02-09T17:03:32+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/open-data/</loc>
     <lastmod>2021-02-09T17:03:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/open-materials/</loc>
     <lastmod>2021-02-09T17:03:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/partner-selection/</loc>
     <lastmod>2021-02-09T14:33:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/reaction-time/</loc>
     <lastmod>2021-02-09T14:32:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/rotation/</loc>
     <lastmod>2021-02-09T14:33:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/verschuere-2018/</loc>
     <lastmod>2021-02-09T14:32:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/experiments/</loc>
     <lastmod>2021-02-05T11:32:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/hadar-shalev/</loc>
     <lastmod>2021-02-05T11:32:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/norms/</loc>
     <lastmod>2021-02-05T11:32:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/sys-kochavi/</loc>
     <lastmod>2021-02-05T11:32:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/soraperra-2017/</loc>
     <lastmod>2021-02-05T11:32:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/andreas-glockner/</loc>
     <lastmod>2021-02-09T17:03:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/claudia-bassarak/</loc>
     <lastmod>2021-02-09T17:03:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/dorothee-mischkowski/</loc>
     <lastmod>2021-02-09T17:03:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/observing-counterfactuals/</loc>
     <lastmod>2021-02-09T17:03:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/producing-counterfactuals/</loc>
     <lastmod>2021-02-09T17:03:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/sabrina-strang/</loc>
     <lastmod>2021-02-09T17:03:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/bassarak-2017/</loc>
     <lastmod>2021-02-09T17:03:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/andreas-roepstorff/</loc>
     <lastmod>2021-02-09T17:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/cleansing/</loc>
     <lastmod>2021-02-09T17:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/dan-ariely/</loc>
     <lastmod>2021-02-09T17:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/extreme-rituals/</loc>
     <lastmod>2021-02-09T17:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/gabriel-levy/</loc>
     <lastmod>2021-02-09T17:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/katrin-heimann/</loc>
     <lastmod>2021-02-09T17:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/licensing/</loc>
     <lastmod>2021-02-09T17:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/miriam-kyselo/</loc>
     <lastmod>2021-02-09T17:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/moral-behavior/</loc>
     <lastmod>2021-02-09T17:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/panagiotis-mitkidis/</loc>
     <lastmod>2021-02-09T17:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/sebastian-wallot/</loc>
     <lastmod>2021-02-09T17:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/self-sacrifice/</loc>
     <lastmod>2021-02-09T17:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/shahar-ayal/</loc>
     <lastmod>2021-02-09T17:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/mitkidis-2017/</loc>
     <lastmod>2021-02-09T17:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/aaron-sell/</loc>
     <lastmod>2021-02-09T16:03:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/claudia-zoller/</loc>
     <lastmod>2021-02-05T11:32:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/daniel-sznycer/</loc>
     <lastmod>2021-02-09T16:03:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/daniela-rosensaft-eshel/</loc>
     <lastmod>2021-02-09T16:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/eran-halperin/</loc>
     <lastmod>2021-02-09T16:03:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/fairness-views/</loc>
     <lastmod>2021-02-05T11:32:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/inequality/</loc>
     <lastmod>2021-02-05T11:32:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/john-tooby/</loc>
     <lastmod>2021-02-09T16:03:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/julian-lim/</loc>
     <lastmod>2021-02-09T16:03:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/leda-cosmides/</loc>
     <lastmod>2021-02-09T16:03:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/maria-florencia-lopez-seal/</loc>
     <lastmod>2021-02-09T16:03:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/matthias-sutter/</loc>
     <lastmod>2021-02-05T11:32:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/gordon-hecker-2017/</loc>
     <lastmod>2021-02-09T16:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/redistribution/</loc>
     <lastmod>2021-02-05T11:32:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/responsibility/</loc>
     <lastmod>2021-02-09T16:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/roni-porat/</loc>
     <lastmod>2021-02-09T16:03:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/stefania-bortolotti/</loc>
     <lastmod>2021-02-05T11:32:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/sznycer-2017/</loc>
     <lastmod>2021-02-09T16:03:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/bortolotti-2017/</loc>
     <lastmod>2021-02-05T11:32:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/conflict/</loc>
     <lastmod>2021-02-09T16:03:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/dorsal-acc/</loc>
     <lastmod>2021-02-09T16:03:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/evaluation/</loc>
     <lastmod>2021-02-09T16:03:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/eveline-a.-crone/</loc>
     <lastmod>2021-02-09T16:03:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/fmri/</loc>
     <lastmod>2021-02-09T16:03:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/gert-jan-lelieveld/</loc>
     <lastmod>2021-02-09T16:03:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/justifications/</loc>
     <lastmod>2021-02-09T17:03:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/lelieveld-2016-a/</loc>
     <lastmod>2021-02-09T16:03:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/shalvi-2016/</loc>
     <lastmod>2021-02-09T14:33:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/culture/</loc>
     <lastmod>2021-02-09T16:03:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/emotion/</loc>
     <lastmod>2021-02-09T16:03:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/evolutionary-psychology/</loc>
     <lastmod>2021-02-09T16:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/shame/</loc>
     <lastmod>2021-02-09T16:03:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/sznycer-2016/</loc>
     <lastmod>2021-02-09T16:03:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/valuation/</loc>
     <lastmod>2021-02-09T16:03:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/amos-schurr/</loc>
     <lastmod>2021-02-09T16:03:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/lie-aversion/</loc>
     <lastmod>2021-02-09T16:03:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/monitoring/</loc>
     <lastmod>2021-02-09T16:03:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/rilke-2016/</loc>
     <lastmod>2021-02-09T16:03:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/organizational-policy/</loc>
     <lastmod>2021-02-09T16:03:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/rachel-barkan/</loc>
     <lastmod>2021-02-09T17:03:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/rainer-m.-rilke/</loc>
     <lastmod>2021-02-09T16:03:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/adam-fine/</loc>
     <lastmod>2021-02-09T16:03:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/benjamin-van-rooij/</loc>
     <lastmod>2021-02-09T16:03:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/compliance/</loc>
     <lastmod>2021-02-09T16:03:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/shalvi-2016-a/</loc>
     <lastmod>2021-02-09T18:00:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/deterrence/</loc>
     <lastmod>2021-02-09T16:03:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/eline-scheper/</loc>
     <lastmod>2021-02-09T16:03:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/elizabeth-cauffman/</loc>
     <lastmod>2021-02-09T16:03:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/enforcement/</loc>
     <lastmod>2021-02-09T16:03:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/rule-orientation/</loc>
     <lastmod>2021-02-09T16:03:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/fine-2016/</loc>
     <lastmod>2021-02-09T16:03:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/sys-kochavi-gamlie/</loc>
     <lastmod>2021-02-09T18:00:18+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/yuval-feldman/</loc>
     <lastmod>2021-02-09T16:03:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/gino-2015-a/</loc>
     <lastmod>2021-02-09T17:03:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/francesca-gino/</loc>
     <lastmod>2021-02-09T17:03:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/ambiguity/</loc>
     <lastmod>2021-02-09T17:03:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/attention-allocation/</loc>
     <lastmod>2021-02-09T17:03:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/eye-movements/</loc>
     <lastmod>2021-02-09T17:03:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/pittarello-2015/</loc>
     <lastmod>2021-02-09T17:03:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/morality/</loc>
     <lastmod>2021-02-09T17:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/preregistered/</loc>
     <lastmod>2021-02-09T17:03:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/ethics/</loc>
     <lastmod>2021-02-09T17:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/shalvi-2015-a/</loc>
     <lastmod>2021-02-09T17:03:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/temporal/</loc>
     <lastmod>2021-02-09T17:03:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/bereby-meyer-2015/</loc>
     <lastmod>2021-02-09T17:03:38+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/weisel-2015-b/</loc>
     <lastmod>2021-02-09T14:33:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/automatic/</loc>
     <lastmod>2021-02-09T17:03:32+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/verschuere-2014/</loc>
     <lastmod>2021-02-09T17:03:32+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/truth/</loc>
     <lastmod>2021-02-09T17:03:32+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/carsten-k.-w.-de-dreu/</loc>
     <lastmod>2021-02-09T17:03:38+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/shalvi-2014/</loc>
     <lastmod>2021-02-09T17:03:38+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/alessandro-acquisti/</loc>
     <lastmod>2021-02-09T17:03:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/halevy-2014-a/</loc>
     <lastmod>2021-02-09T17:03:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/confessions/</loc>
     <lastmod>2021-02-09T17:03:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/credibility/</loc>
     <lastmod>2021-02-09T17:03:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/dospert/</loc>
     <lastmod>2021-02-09T17:03:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/eyal-peer/</loc>
     <lastmod>2021-02-09T17:03:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/liora-zimerman/</loc>
     <lastmod>2021-02-09T17:03:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/negative-emotions/</loc>
     <lastmod>2021-02-09T17:03:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/risk-taking/</loc>
     <lastmod>2021-02-09T17:03:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/rony-halevy/</loc>
     <lastmod>2021-02-09T17:03:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/zimerman-2014/</loc>
     <lastmod>2021-02-09T17:03:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/peer-2014/</loc>
     <lastmod>2021-02-09T17:03:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/david-leiser/</loc>
     <lastmod>2021-02-09T17:03:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/firmness/</loc>
     <lastmod>2021-02-09T17:03:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/flexibility/</loc>
     <lastmod>2021-02-09T17:03:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/shalvi-2013/</loc>
     <lastmod>2021-02-09T17:03:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/religion/</loc>
     <lastmod>2021-02-09T17:03:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/self-control/</loc>
     <lastmod>2021-02-09T17:03:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/temptation/</loc>
     <lastmod>2021-02-09T17:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/shalvi-2013-a/</loc>
     <lastmod>2021-02-09T17:03:32+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/judgment-and-decision-making/</loc>
     <lastmod>2021-02-09T17:03:32+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/ori-eldar/</loc>
     <lastmod>2021-02-09T17:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/cognitive-processes/</loc>
     <lastmod>2021-02-09T17:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/dual-system/</loc>
     <lastmod>2021-02-09T17:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/shalvi-2012-b/</loc>
     <lastmod>2021-02-09T17:03:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/choice/</loc>
     <lastmod>2021-02-09T17:03:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/shalvi-2012-a/</loc>
     <lastmod>2021-02-09T17:03:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/mixed-gambles/</loc>
     <lastmod>2021-02-09T17:03:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/approach/</loc>
     <lastmod>2021-02-09T16:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/avoidance/</loc>
     <lastmod>2021-02-09T16:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/bargaining/</loc>
     <lastmod>2021-02-09T17:03:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/brain/</loc>
     <lastmod>2021-02-09T16:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/daniel-sligte/</loc>
     <lastmod>2021-02-09T16:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/evolution-theory/</loc>
     <lastmod>2021-02-09T16:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/exit-option/</loc>
     <lastmod>2021-02-09T17:03:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/football/</loc>
     <lastmod>2021-02-09T16:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/goalkeepers/</loc>
     <lastmod>2021-02-09T16:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/line-bisection/</loc>
     <lastmod>2021-02-09T16:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/michel-j.-j.-handgraaf/</loc>
     <lastmod>2021-02-09T17:03:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/motivation/</loc>
     <lastmod>2021-02-09T16:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/shalvi-2011-b/</loc>
     <lastmod>2021-02-09T17:03:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/right-oriented-bias/</loc>
     <lastmod>2021-02-09T16:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/soccer/</loc>
     <lastmod>2021-02-09T16:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/roskes-2011/</loc>
     <lastmod>2021-02-09T16:03:50+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/ultimatum-game/</loc>
     <lastmod>2021-02-09T17:03:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/jason-dana/</loc>
     <lastmod>2021-02-09T17:03:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/shalvi-2011/</loc>
     <lastmod>2021-02-09T17:03:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/shalvi-2011-c/</loc>
     <lastmod>2021-02-09T17:03:31+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/endocrinology/</loc>
     <lastmod>2021-02-09T16:03:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/evolution/</loc>
     <lastmod>2021-02-09T16:03:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/hormones/</loc>
     <lastmod>2021-02-09T16:03:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/lindred-l.-greer/</loc>
     <lastmod>2021-02-09T16:03:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/moral-dilemmas/</loc>
     <lastmod>2021-02-09T16:03:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/de-dreu-2011/</loc>
     <lastmod>2021-02-09T16:03:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/social-discrimination/</loc>
     <lastmod>2021-02-09T16:03:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/anchoring/</loc>
     <lastmod>2021-02-09T16:03:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/heuristics/</loc>
     <lastmod>2021-02-09T16:03:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/ilana-ritov/</loc>
     <lastmod>2021-02-09T16:03:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/individual/</loc>
     <lastmod>2021-02-09T16:03:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/locus-of-control/</loc>
     <lastmod>2021-02-09T16:03:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/tag/negotiation/</loc>
     <lastmod>2021-02-09T16:03:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/shalvi-2010/</loc>
     <lastmod>2021-02-09T16:03:45+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/eric-van-dijk/</loc>
     <lastmod>2021-02-09T16:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/femke-s.-ten-velden/</loc>
     <lastmod>2021-02-09T16:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/matthijs-baas/</loc>
     <lastmod>2021-02-09T16:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/s.-w.-w.-feith/</loc>
     <lastmod>2021-02-09T16:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/de-dreu-2010/</loc>
     <lastmod>2021-02-09T16:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/publication/shalvi-2010-a/</loc>
     <lastmod>2021-02-09T16:03:48+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/author/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.behavioralethics.org/categories/</loc>
   </url>
-  
 </urlset>

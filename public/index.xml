@@ -5,9 +5,9 @@
     <link>https://www.behavioralethics.org/</link>
       <atom:link href="https://www.behavioralethics.org/index.xml" rel="self" type="application/rss+xml" />
     <description>Behavioral Ethics Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Behavioral Ethics Lab © 2021</copyright><lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Behavioral Ethics Lab © 2022</copyright><lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.behavioralethics.org/media/icon_hue79c9617451b43386f4505d9bbf948d0_14414_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.behavioralethics.org/media/icon_hue79c9617451b43386f4505d9bbf948d0_14414_512x512_fill_lanczos_center_3.png</url>
       <title>Behavioral Ethics Lab</title>
       <link>https://www.behavioralethics.org/</link>
     </image>
@@ -65,10 +65,10 @@
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;
         &lt;img alt=&#34;This project is financially supported by the Dutch Research Council (NWO) with project number 195.137.&#34; srcset=&#34;
-               /project/trustpath/nwo-logo-bw_huaa0fcde34bac153e467298c2ba83850c_6664_08a74485892ea62e7254973d7a94601b.png 400w,
-               /project/trustpath/nwo-logo-bw_huaa0fcde34bac153e467298c2ba83850c_6664_eec78651c62bf7cd32ad3b85fa9ccdac.png 760w,
-               /project/trustpath/nwo-logo-bw_huaa0fcde34bac153e467298c2ba83850c_6664_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;https://www.behavioralethics.org/project/trustpath/nwo-logo-bw_huaa0fcde34bac153e467298c2ba83850c_6664_08a74485892ea62e7254973d7a94601b.png&#34;
+               /project/trustpath/nwo-logo-bw_huaa0fcde34bac153e467298c2ba83850c_6664_b84643f6924dd8766c84c07891b85d1d.png 400w,
+               /project/trustpath/nwo-logo-bw_huaa0fcde34bac153e467298c2ba83850c_6664_69a2d21ac48338893f602187ab4f2598.png 760w,
+               /project/trustpath/nwo-logo-bw_huaa0fcde34bac153e467298c2ba83850c_6664_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://www.behavioralethics.org/project/trustpath/nwo-logo-bw_huaa0fcde34bac153e467298c2ba83850c_6664_b84643f6924dd8766c84c07891b85d1d.png&#34;
                width=&#34;200px&#34;
                height=&#34;230&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
