@@ -12,7 +12,7 @@ weight: 30
 superuser: false
 
 # Role/position
-role: Postdoctoral researcher
+role: currently at Tilburg University
 
 # Organizations/Affiliations
 organizations:
@@ -32,7 +32,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:m.leib@uva.nl'
+  link: 'mailto:m.leib@tilburguniversity.edu'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=UojQ0RIAAAAJ&hl=en&oi=sra
@@ -47,7 +47,7 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: ["Researchers"]
+user_groups: ["Alumni"]
 ---
 
 I am interested in ethical decision making. In particularly, I study the cognitive process and (social) motivation that shapes people’s decision to be honest or to lie for financial profit. In my current work I focus on collaborative dishonesty – situations in which in order to collaborate with partners, people need to violate ethical rules and lie.

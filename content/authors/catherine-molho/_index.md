@@ -12,7 +12,7 @@ weight: 40
 superuser: false
 
 # Role/position
-role: Postdoctoral researcher
+role: currently at Vrije Universiteit Amsterdam
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
   url: "http://www.iast.fr"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include experimental economics, behavioral economics and virtual reality.
+bio: My research interests include human cooperation, morality, and the role of emotions in decision-making.
 
 interests:
 - Cooperation
@@ -36,7 +36,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:catherine.molho@iast.fr'
+  link: 'mailto:c.molho2@vu.nl'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/catherinemolho
@@ -47,14 +47,14 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://www.iast.fr/sites/default/files/IAST/cv/molho2020.pdf
+  link: https://catherinemolho.github.io/assets/pdf/CV_CMolho.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: ["Researchers"]
+user_groups: ["Alumni"]
 ---
 
 Catherine is a psychologist studying human cooperation, morality, and the role of emotions in decision-making. She draws upon insights from social and evolutionary psychology, behavioral economics, and evolutionary biology to better understand the factors underlying cooperative and punitive decisions. In her work, she uses decision-making experiments, questionnaires, and intensive experience sampling methods.
