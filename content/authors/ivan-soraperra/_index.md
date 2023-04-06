@@ -12,11 +12,11 @@ weight: 20
 superuser: false
 
 # Role/position
-role: Postdoctoral researcher
+role: currently at Max Planck Institute for Human Development, Berlin
 
 # Organizations/Affiliations
 organizations:
-- name: University of Amsterdam
+- name: Max Planck Institute for Human Development
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,7 +29,7 @@ bio: My research interests include experimental and behavioral economics, with a
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:i.soraperra@uva.nl'
+  link: 'mailto:soraperra@mpib-berlin.mpg.de'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: google-scholar
@@ -44,12 +44,10 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: ["Researchers"]
+user_groups: ["Alumni"]
 ---
 
-Ivan Soraperra is a post-doc research fellow at [CREED](https://www.creedexperiment.nl/creed), the Center for Research in Experimental Economics and political Decision making of the University of Amsterdam. Formerly he worked as post-doc researcher at the [Department of Economics of the University of Verona](https://www.dse.univr.it) and at the Max Planck Institute for Economics in Jena.
-
-My research interests are in the field of experimental and behavioral economics, with a focus on unethical behavior and cheating, experimental methods, and econometric analysis of experimental data.
+Ivan Soraperra is a research scientist at the Center for Human and Machines of the Max Planck Institute for Human Development. My research interests are in the field of experimental and behavioral economics with a focus on the interaction between humans and A.I.  I am currently working on mapping human preferences distilled through large language models such as GPT-3, on the demand for face to face communication when human interactions are mediated by algorithms; and on the role of AI in the construction of (willful) ignorance. 
 
 More information on [Ivan's personal website](https://sites.google.com/site/ivansoraperra/)
 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial intelligence | Behavioral Ethics Lab</title>
+    <link>https://www.behavioralethics.org/tag/artificial-intelligence/</link>
+      <atom:link href="https://www.behavioralethics.org/tag/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Artificial intelligence</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Behavioral Ethics Lab © 2023</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.behavioralethics.org/media/icon_hue79c9617451b43386f4505d9bbf948d0_14414_512x512_fill_lanczos_center_3.png</url>
+      <title>Artificial intelligence</title>
+      <link>https://www.behavioralethics.org/tag/artificial-intelligence/</link>
+    </image>
+    
+    <item>
+      <title>Fooled twice: People cannot detect deepfakes but think they can</title>
+      <link>https://www.behavioralethics.org/publication/kobis-2021-b/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.behavioralethics.org/publication/kobis-2021-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

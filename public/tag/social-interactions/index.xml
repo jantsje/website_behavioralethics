@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social interactions | Behavioral Ethics Lab</title>
+    <link>https://www.behavioralethics.org/tag/social-interactions/</link>
+      <atom:link href="https://www.behavioralethics.org/tag/social-interactions/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social interactions</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Behavioral Ethics Lab © 2023</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.behavioralethics.org/media/icon_hue79c9617451b43386f4505d9bbf948d0_14414_512x512_fill_lanczos_center_3.png</url>
+      <title>Social interactions</title>
+      <link>https://www.behavioralethics.org/tag/social-interactions/</link>
+    </image>
+    
+    <item>
+      <title>The social construction of ignorance: Experimental evidence</title>
+      <link>https://www.behavioralethics.org/publication/soraperra-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.behavioralethics.org/publication/soraperra-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
