@@ -60,4 +60,7 @@ abstract: The sharing economy is estimated to add hundreds of billions of dollar
   transparency without jeopardizing the potential of trust-based commercial sharing.
 publication: '*Journal of Management*'
 doi: 10.1177/0149206320967740
+links:
+  - name: PDF
+    url: https://journals.sagepub.com/doi/pdf/10.1177/0149206320967740
 ---

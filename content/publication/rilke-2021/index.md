@@ -33,7 +33,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['honesty']
 publishDate: '2021-09-15T10:30:31.585518Z'
 publication_types:
 - '2'
@@ -48,6 +48,10 @@ abstract: We contribute to the pressing question of how organizational design in
   settings). We argue that this effect is primarily driven by image concerns of decision
   leaders.
 publication: '*Journal of Economic Behavior and Organization*'
-url_pdf: https://doi.org/10.1016/j.jebo.2021.05.007
 doi: 10.1016/j.jebo.2021.05.007
+links:
+- name: PDF
+  url: https://doi.org/10.1016/j.jebo.2021.05.007
+-  name: Supplementary Material
+   url: https://ars.els-cdn.com/content/image/1-s2.0-S0167268121001931-mmc1.pdf
 ---

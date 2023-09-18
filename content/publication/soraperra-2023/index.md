@@ -34,7 +34,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['trustpath']
 publishDate: '2023-04-06T12:32:23.377111Z'
 publication_types:
 - '2'
@@ -57,4 +57,8 @@ doi: 10.1016/j.geb.2022.12.002
 links:
 - name: URL
   url: https://doi.org/10.1016/j.geb.2022.12.002
+- name: Supplementary Material
+  url: https://ars.els-cdn.com/content/image/1-s2.0-S0899825622001737-mmc1.pdf
+- name: Data
+  url: https://osf.io/3r62f/
 ---

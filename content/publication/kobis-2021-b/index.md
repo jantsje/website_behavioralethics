@@ -35,7 +35,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['miscellaneous']
 publishDate: '2023-04-06T12:32:26.613331Z'
 publication_types:
 - '2'
@@ -52,4 +52,7 @@ abstract: Hyper-realistic manipulations of audio-visual content, i.e., deepfakes
   renders people particularly susceptible to be influenced by deepfake content.
 publication: '*iScience*'
 doi: 10.1016/j.isci.2021.103364
+links:
+  - name: Supplementary Material
+    url: https://osf.io/mz974/
 ---

@@ -36,9 +36,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: https://www.jantsje.nl/files/CV.pdf
+- icon: cv
+  icon_pack: ai
+  link: https://drive.google.com/file/d/1__uy-pLEk3O2yDFKC9oO8DZu9YuqAXUu/view
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -48,9 +48,9 @@ email: ""
 user_groups: ["Researchers"]
 ---
 
-I am a PhD candidate at CREED, under the supervision of Prof. dr. Shaul Shalvi and Dr. Joël van der Weele. I am interested in behavioural ethics and decision making. Currently, I'm researching willful ignorance in the context of the sharing economy. 
+I am a PhD candidate at CREED, under the supervision of Prof. dr. Shaul Shalvi and Prof. Dr. Joël van der Weele. I am interested in behavioural ethics and decision making. Currently, I'm researching willful ignorance in the context of the sharing economy. 
 
-Before becoming a PhD candidate, I completed a research Master's degree in Cognitive Neuropsychology at [Vrije Universiteit Amsterdam](https://vuweb.vu.nl/en/) and a Bachelor's degree in Psychology at [University of Southampton](https://www.southampton.ac.uk/), United Kingdom. 
+Before becoming a PhD candidate, I completed a research Master's degree in Cognitive Neuropsychology at [Vrije Universiteit Amsterdam](https://vuweb.vu.nl/en/) and a Bachelor's degree in Psychology at [University of Southampton](https://www.southampton.ac.uk/), United Kingdom. For more information, see Linh’s [personal website](https://sites.google.com/view/linh-vu/home).
 
 ### Interests
 - Behavioural Ethics
@@ -60,3 +60,7 @@ Before becoming a PhD candidate, I completed a research Master's degree in Cogni
 
 
 <br>
+
+{{< cite page="/publication/vu" view="4" >}}
+{{< cite page="/publication/vu-2023" view="4" >}}
+

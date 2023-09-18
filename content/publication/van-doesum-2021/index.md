@@ -90,7 +90,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['miscellaneous']
 publishDate: '2021-09-15T11:41:23.364762Z'
 publication_types:
 - '2'
@@ -110,4 +110,7 @@ abstract: Humans are social animals, but not everyone will be mindful of others 
 publication: '*Proceedings of the National Academy of Sciences*'
 url_pdf: https://www.pnas.org/content/pnas/118/35/e2023846118.full.pdf
 doi: http://doi.org/10.1073/pnas.2023846118
+links:
+  - name: Supplementary Material
+    url: https://www.pnas.org/doi/suppl/10.1073/pnas.2023846118/suppl_file/pnas.2023846118.sapp.pdf
 ---

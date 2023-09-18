@@ -30,7 +30,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['roots_of_corruption']
 publishDate: '2023-04-06T12:34:12.899311Z'
 publication_types:
 - '2'
@@ -40,6 +40,6 @@ doi: 10.1037/bul0000349
 links:
 - name: PDF
   url: https://pure.mpg.de/rest/items/item_3377548_4/component/file_3388432/content
-- name: URL
-  url: http://doi.apa.org/getdoi.cfm?doi=10.1037/bul0000349
+- name: Supplementary Material
+  url: https://pure.mpg.de/pubman/item/item_3377548_6/component/file_3377550/BUL-2020-0227_Supplemental_Materials.docx?mode=download 
 ---

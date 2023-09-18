@@ -67,7 +67,9 @@ More information can be found on [Shaul's personal website](https://www.uva.nl/e
 <br>
 
 ### Key publications
+{{< cite page="/publication/vu" view="4" >}}
+{{< cite page="/publication/molho-2023" view="4" >}}
+{{< cite page="/publication/c-kobis-2021" view="4" >}}
+{{< cite page="/publication/leib-2021-b" view="4" >}}
 {{< cite page="/publication/shalvi-2016" view="4" >}}
 {{< cite page="/publication/shalvi-2019-a" view="4" >}}
-{{< cite page="/publication/weisel-2015-b" view="4" >}}
-{{< cite page="/publication/kobis-2019-c" view="4" >}}

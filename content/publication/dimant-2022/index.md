@@ -31,7 +31,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['honesty']
 publishDate: '2023-04-06T12:32:25.818069Z'
 publication_types:
 - '2'
@@ -48,8 +48,8 @@ abstract: Achieving successful and long-lasting behavior change via nudging come
   of nudging honesty to develop the theoretical foundation of meta-nudging and discuss
   avenues for future work.
 publication: '*Current Opinion in Psychology*'
-doi: 10.1016/j.copsyc.2022.101426
+doi: https://doi.org/10.1016/j.copsyc.2022.101426
 links:
-- name: URL
-  url: https://doi.org/10.1016/j.copsyc.2022.101426 https://linkinghub.elsevier.com/retrieve/pii/S2352250X22001476
+- name: PDF
+  url: https://www.sciencedirect.com/science/article/pii/S2352250X22001476/pdfft?casa_token=-9li_qXD4xgAAAAA:-ndvdRbQ3CAyEqKGmk8BimZ3KvBVZzKfMtaFjisSmOK0jIjuKRKcRZZIkNXcYMx3zMF4jwJAiA&md5=5c2033b42b01caa98035c98f157b5cbc&pid=1-s2.0-S2352250X22001476-main.pdf
 ---

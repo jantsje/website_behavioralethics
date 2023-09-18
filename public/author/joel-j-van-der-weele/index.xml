@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joël J van der Weele | Behavioral Ethics Lab</title>
+    <link>https://www.behavioralethics.org/author/joel-j-van-der-weele/</link>
+      <atom:link href="https://www.behavioralethics.org/author/joel-j-van-der-weele/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joël J van der Weele</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Behavioral Ethics Lab © 2023</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.behavioralethics.org/media/icon_hue79c9617451b43386f4505d9bbf948d0_14414_512x512_fill_lanczos_center_3.png</url>
+      <title>Joël J van der Weele</title>
+      <link>https://www.behavioralethics.org/author/joel-j-van-der-weele/</link>
+    </image>
+    
+    <item>
+      <title>Ignorance by Choice: A Meta-Analytic Review of the Underlying Motives of Willful Ignorance and Its Consequences</title>
+      <link>https://www.behavioralethics.org/publication/vu/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.behavioralethics.org/publication/vu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

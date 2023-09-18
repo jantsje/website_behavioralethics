@@ -35,7 +35,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['honesty']
 publishDate: '2023-04-06T12:32:24.848289Z'
 publication_types:
 - '2'
@@ -51,6 +51,6 @@ abstract: "We examine dishonest behavior in the face of potential uncertain gain
 publication: '*Journal of Economic Psychology*'
 doi: 10.1016/j.joep.2022.102487
 links:
-- name: URL
-  url: https://linkinghub.elsevier.com/retrieve/pii/S016748702200006X
+- name: PDF
+  url: https://www.sciencedirect.com/science/article/pii/S016748702200006X/pdfft?md5=ea5078596961f76fd96913e8f90eeec0&pid=1-s2.0-S016748702200006X-main.pdf
 ---

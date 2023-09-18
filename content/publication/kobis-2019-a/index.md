@@ -12,7 +12,7 @@ authors:
 - Ivan Soraperra
 tags: []
 categories: []
-date: '2019-12-01'
+date: '2022-01-01'
 lastmod: 2021-02-05T11:32:51+01:00
 featured: false
 draft: false
@@ -46,6 +46,10 @@ abstract: 'Corruption in the form of bribery continues to be a major societal ch
   The discussion outlines how social norms nudging campaigns can be leveraged to spur
   collective action against corruption.'
 publication: '*Behavioural Public Policy*'
-url_pdf: 10.13140/RG.2.2.28936.06408/2 https://www.cambridge.org/core/product/identifier/S2398063X1900037X/type/journal_article
 doi: 10.1017/bpp.2019.37
+links: 
+  - name: PDF
+    url:  https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FD16DED219367827E1D961A093D2BD1C/S2398063X1900037Xa.pdf/div-class-title-social-norms-of-corruption-in-the-field-social-nudges-on-posters-can-help-to-reduce-bribery-div.pdf
+  - name: Supplementary Material
+    url: https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S2398063X1900037X/resource/name/S2398063X1900037Xsup001.docx
 ---
