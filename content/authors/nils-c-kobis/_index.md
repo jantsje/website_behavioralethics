@@ -4,19 +4,19 @@ title: Nils Köbis
 
 # Username (this should match the folder name)
 authors:
-- nils-c-kobis
+- nils-kobis
 weight: 20
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: currently at Max Planck Institute for Human Development, Berlin
+role: currently at University of Duisburg-Essen
 
 # Organizations/Affiliations
 organizations:
-- name: Max Planck Institute for Human Development
-  url: "https://www.mpib-berlin.mpg.de/en"
+- name: University of Duisburg-Essen
+  url: "https://rc-trust.ai/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include corruption, (un-)ethical behavior, social norms and more recently artificial intelligence.
@@ -46,7 +46,7 @@ email: ""
 user_groups: ["Alumni"]
 ---
 
-Nils is a Post-Doctoral researcher at the Max Planck Institute for Human Development, Center for Humans and Machines,
+Nils is a Professor for the Human Understanding of Algorithms and Machines at [University of Duisburg-Essen](https://rc-trust.ai/). 
 He is a behavioral scientist working on corruption, (un-)ethical behavior, social norms and more recently artificial intelligence.
 
 More information on [Nils' personal website](https://www.mindcapoeira.com/nils-koebis/)

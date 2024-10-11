@@ -11,12 +11,12 @@ weight: 30
 superuser: false
 
 # Role/position
-role: currently at the Psychology Department of Virginia Tech
+role: currently at Stony Brook University
 
 # Organizations/Affiliations
 organizations:
-- name: Virginia Tech
-  url: "https://support.psyc.vt.edu/"
+- name: Stony Brook University
+  url: "https://www.stonybrook.edu/commcms/psychology/faculty/faculty_profiles/apittarello"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I worked in Italy, Arizona, Israel, the Netherlands, and Brooklyn (NY). I study judgment and decision-making.
@@ -41,7 +41,7 @@ email: ""
 user_groups: ["Alumni"]
 ---
 
-Andrea is an Assistant Professor at Virginia Tech. 
+Andrea works at the Department of Psychology of Stony Brook University.
 
-More information on [Andrea's personal website](https://support.psyc.vt.edu/users/apittarello19)
+More information on [Andrea's personal website](https://www.stonybrook.edu/commcms/psychology/faculty/faculty_profiles/apittarello)
 

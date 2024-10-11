@@ -11,12 +11,12 @@ weight: 30
 superuser: false
 
 # Role/position
-role: currently at School of Business Administration at the Hebrew University of Jerusalem
+role: currently at Business Administration Department at Ben-Gurion University
 
 # Organizations/Affiliations
 organizations:
-- name: Hebrew University of Jerusalem
-  url: "http://bschool.huji.ac.il/en/"
+- name: Ben-Gurion University
+  url: "https://in.bgu.ac.il/en/Pages/Tom-Gordon.aspx"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Interested in fairness, ethics and other things we fail to maintain
@@ -43,9 +43,9 @@ email: ""
 user_groups: ["Alumni"]
 ---
 
-Tom is a Post-Doctoral researcher at the School of business administration at the Hebrew University of Jerusalem, interested in decision making, fairness and ethics. In my research he studies how people make decisions under conflicting interests, such as a desire to increase one's payoff and her desire to act morally, or the desire to maintain equity and the desire to maximize overall payoffs.
+I study the social contexts of decision making, and specifically decisions that involve ethical questions such as fairness, equity, trust, and integrity. My research highlights the critical impact of an actor’s agency on decision making. For example, I showed that people experience ‘inequity aversion’ as well as ‘inequity responsibility aversion.’ When they were asked to distribute vouchers for coffee and cake, people were willing to break with equity and give one person more vouchers than to others if the selection of that one person was random. They were not willing to decide who would “benefit” from the inequality they were creating. 
 
 Tom uses economic games, behavioral paradigms and process tracing techniques such as eye-tracking and mouse-tracking to uncover the thinking processes underlying such decisions.
 
-More information on [Tom's personal website](https://bgujdmlab.wixsite.com/tomgo)
+More information on [Tom's personal website](https://in.bgu.ac.il/en/Pages/Tom-Gordon.aspx)
 
